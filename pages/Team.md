@@ -5,7 +5,7 @@ image: People.JPG
 permalink: /Team/
 published: true
 ---
-![Wei Leong CHEW](https://chewlab.github.io/assets/images/Chew-Wei-Leong-cropped.jpg)
+![Wei Leong CHEW](https://chewlab.github.io/assets/images/Chew-Wei-Leong-cropped.jpg){: height="40px"}
 <br><b>Wei Leong CHEW</b> | Principal Investigator<br>Ph.D. | Harvard University <br>B.S. | Duke University <br><a href="mailto:chewwl@gis.a-star.edu.sg">Email</a>
 
 ![GUO Ke](https://chewlab.github.io/assets/images/Guo-Ke-cropped.jpg)
