@@ -1,7 +1,7 @@
 ---
 layout: page
 title: News
-image: Skyline.jpg
+image: LabSpace.jpg
 permalink: /News/
 published: true
 ---
