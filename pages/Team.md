@@ -6,5 +6,5 @@ permalink: /Team/
 published: true
 ---
 
-<img src="Chew-Wei-Leong-cropped.jpg" {:class="img-responsive"}>
-<p><br>Ph.D. | Harvard University <br>B.S. | Duke University <br><a href="mailto:chewwl@gis.a-star.edu.sg">Email</a> </p>
+<img src="Chew-Wei-Leong-cropped.jpg" style="float:left" class="img-responsive">
+<br>Ph.D. | Harvard University <br>B.S. | Duke University <br><a href="mailto:chewwl@gis.a-star.edu.sg">Email</a>
