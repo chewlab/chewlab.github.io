@@ -6,5 +6,4 @@ permalink: /Team/
 published: true
 ---
 ![Wei Leong CHEW | Principal Investigator](Chew-Wei-Leong-cropped.jpg){:class="img-responsive"}
-<p><br>Ph.D. | Harvard University <br>B.S. | Duke University <br>mailto:chewwl@gis.a-star.edu.sg </p>
-
+<p><br>Ph.D. | Harvard University <br>B.S. | Duke University <br><a href="mailto:chewwl@gis.a-star.edu.sg">Email</a> </p>
