@@ -5,7 +5,7 @@ image: People.JPG
 permalink: /Team/
 published: true
 ---
-<center>
+
 
 ![Wei Leong CHEW](https://chewlab.github.io/assets/images/Chew-Wei-Leong-cropped.jpg){: height="200px"}
 <br><b>Wei Leong CHEW</b> | Principal Investigator<br>Ph.D. | Harvard University <br>B.S. | Duke University <br><a href="mailto:chewwl@gis.a-star.edu.sg">Email</a>
@@ -18,5 +18,3 @@ published: true
 
 ![Bagus SARMITO](https://chewlab.github.io/assets/images/Bagus_Sarmito_cropped.jpg){: height="200px"}
 <br><b>Bagus SARMITO</b> | Student Intern <br>B.S. | Atma Jaya Catholic University
-
-</center>
