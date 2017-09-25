@@ -14,5 +14,5 @@ published: true
 ![GOH Si Wei](https://chewlab.github.io/assets/images/Goh-Si-Wei-cropped.jpg){: height="200px"}
 <br><b>GOH Si Wei</b> | Research Officer <br>B.S. | National University of Singapore <br><a href="mailto:goh_si_wei@gis.a-star.edu.sg">Email</a>
 
-![Bagus SARMITO](https://chewlab.github.io/assets/images/Bagus-Sarmito_cropped.jpg){: height="200px"}
+![Bagus SARMITO](https://chewlab.github.io/assets/images/Bagus_Sarmito_cropped.jpg){: height="200px"}
 <br><b>Bagus SARMITO</b> | Student Intern <br>B.S. | Atma Jaya Catholic University
