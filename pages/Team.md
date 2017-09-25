@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Team
-<!--image: pic03.jpg-->
+image: pic03.jpg
 permalink: /Team/
 published: true
 ---
