@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Contact
+title: News
 image: pic03.jpg
-permalink: /Contact/
+permalink: /News/
 published: true
 ---
 
