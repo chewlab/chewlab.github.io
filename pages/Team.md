@@ -5,8 +5,10 @@ image: People.JPG
 permalink: /Team/
 published: true
 ---
+<div class='pull-right' markdown="1">
 ![Wei Leong CHEW](https://chewlab.github.io/assets/images/Chew-Wei-Leong-cropped.jpg){: height="200px"}
 <br><b>Wei Leong CHEW</b> | Principal Investigator<br>Ph.D. | Harvard University <br>B.S. | Duke University <br><a href="mailto:chewwl@gis.a-star.edu.sg">Email</a>
+</div>
 
 ![GUO Ke](https://chewlab.github.io/assets/images/Guo-Ke-cropped.jpg){: height="200px"}
 <br><b>GUO Ke</b> | Senior Research Officer<br>Ph.D. | University of Berne  <br>B.S. | Henan Medical University <br><a href="mailto:guok@gis.a-star.edu.sg">Email</a>
