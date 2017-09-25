@@ -7,7 +7,7 @@ published: true
 ---
 
 
-<img style="float:right" src="https://chewlab.github.io/assets/images/Chew-Wei-Leong-cropped.jpg", width=150px />
+<img style="float:left" src="https://chewlab.github.io/assets/images/Chew-Wei-Leong-cropped.jpg", width=150px />
 <br><b>Wei Leong CHEW</b> | Principal Investigator<br>Ph.D. | Harvard University <br>B.S. | Duke University <br><a href="mailto:chewwl@gis.a-star.edu.sg">Email</a>
 
 
