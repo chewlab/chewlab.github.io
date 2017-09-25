@@ -1,8 +1,8 @@
 ---
 layout: page
-title: About
+title: Research
 image: pic03.jpg
-permalink: /About/
+permalink: /Research/
 published: true
 ---
 
