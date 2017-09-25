@@ -15,7 +15,7 @@ icon: fa-circle # Font Awesome class for your site's icon
 
 # Social settings
 github_url: https://chewlab.github.io/
-twitter_url:
+twitter_url: https://
 
 # Build settings
 markdown: kramdown
