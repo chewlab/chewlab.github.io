@@ -7,14 +7,14 @@ published: true
 ---
 
 
-![Wei Leong CHEW](https://chewlab.github.io/assets/images/Chew-Wei-Leong-cropped.jpg){: height="200px"}
+![Wei Leong CHEW](https://chewlab.github.io/assets/images/Chew-Wei-Leong-cropped.jpg){:class="img-responsive"}
 <br><b>Wei Leong CHEW</b> | Principal Investigator<br>Ph.D. | Harvard University <br>B.S. | Duke University <br><a href="mailto:chewwl@gis.a-star.edu.sg">Email</a>
   
-![GUO Ke](https://chewlab.github.io/assets/images/Guo-Ke-cropped.jpg){: height="200px"}
+![GUO Ke](https://chewlab.github.io/assets/images/Guo-Ke-cropped.jpg){:class="img-responsive"}
 <br><b>GUO Ke</b> | Senior Research Officer<br>Ph.D. | University of Berne  <br>B.S. | Henan Medical University <br><a href="mailto:guok@gis.a-star.edu.sg">Email</a>
 
-![GOH Si Wei](https://chewlab.github.io/assets/images/Goh-Si-Wei-cropped.jpg){: height="200px"}
+![GOH Si Wei](https://chewlab.github.io/assets/images/Goh-Si-Wei-cropped.jpg){:class="img-responsive"}
 <br><b>GOH Si Wei</b> | Research Officer <br>B.S. | National University of Singapore <br><a href="mailto:goh_si_wei@gis.a-star.edu.sg">Email</a>
 
-![Bagus SARMITO](https://chewlab.github.io/assets/images/Bagus_Sarmito_cropped.jpg){: height="200px"}
+![Bagus SARMITO](https://chewlab.github.io/assets/images/Bagus_Sarmito_cropped.jpg){:class="img-responsive"}
 <br><b>Bagus SARMITO</b> | Student Intern <br>B.S. | Atma Jaya Catholic University
