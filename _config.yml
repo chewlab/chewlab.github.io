@@ -15,7 +15,7 @@ phone: (65) 6808-8044
 
 # Social settings
 github_url: https://chewlab.github.io/
-twitter_url: 
+twitter_url: .
 
 # Build settings
 markdown: kramdown
