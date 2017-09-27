@@ -23,7 +23,7 @@ published: true
 <center>
 <HR WIDTH="60%" NOSHADE>
 
-<b><br />
+<b>
 * We are recruiting postdocs/ROs/students. Email and come chat!<br />
 </b>
 <a href="https://www.a-star.edu.sg/gis/Connect/Careers/Careers-Details.aspx?id=282">Postdoc - Genome-editing technologies</a><br />
