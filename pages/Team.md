@@ -19,6 +19,13 @@ published: true
 ![Bagus SARMITO](https://chewlab.github.io/assets/images/Bagus_Sarmito_cropped.jpg){:height="180px"}
 <br><b>Bagus SARMITO</b> | Student Intern <br>B.S. | Atma Jaya Catholic University
 
+
+<div>
+  <img style="vertical-align:middle" src="https://chewlab.github.io/assets/images/Bagus_Sarmito_cropped.jpg" height="180px"}
+  <span style=""><br><b>Bagus SARMITO</b> | Student Intern <br>B.S. | Atma Jaya Catholic University</span>
+</div>
+
+
 <center>
 <b><br />
 * We are recruiting postdocs/ROs/students. Email and come chat!<br />
