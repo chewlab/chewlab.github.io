@@ -18,6 +18,11 @@ published: true
    float:right;
    width:55%;
 }
+#div {
+    text-align: justify;
+    text-justify: inter-word;
+}
+  
 </style>
 
 <div id="wrap">
