@@ -6,7 +6,6 @@ permalink: /Team/
 published: true
 ---
 
-<center>
 
 ![Wei Leong CHEW](https://chewlab.github.io/assets/images/Chew-Wei-Leong-cropped.jpg){:height="150px"}
 <br><b>Wei Leong CHEW</b> | Principal Investigator<br>Ph.D. | Harvard University <br>B.S. | Duke University <br><a href="mailto:chewwl@gis.a-star.edu.sg">Email</a>
@@ -31,4 +30,3 @@ published: true
 <a href="https://www.a-star.edu.sg/gis/Connect/Careers/Careers-Details.aspx?id=283">Postdoc - Immunology</a><br />
 <a href="https://www.a-star.edu.sg/gis/Connect/Careers/Careers-Details.aspx?id=281">Research Officer</a><br />
 </b>
-  </center>
