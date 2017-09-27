@@ -7,17 +7,17 @@ published: true
 ---
 <style type="text/css">
 #wrap {
-   width:600px;
+   width:100%;
    margin:0 auto;
 }
 #left_col {
    float:left;
-   font size:35;
-   width:300px;
+   font size:300%;
+   width:34%;
 }
 #right_col {
    float:right;
-   width:300px;
+   width:66%;
 }
 </style>
 
