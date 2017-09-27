@@ -6,34 +6,24 @@ permalink: /Team/
 published: true
 ---
 
+<center>
 
-![Wei Leong CHEW](https://chewlab.github.io/assets/images/Chew-Wei-Leong-cropped.jpg){:height="180px"}
+![Wei Leong CHEW](https://chewlab.github.io/assets/images/Chew-Wei-Leong-cropped.jpg){:height="150px"}
 <br><b>Wei Leong CHEW</b> | Principal Investigator<br>Ph.D. | Harvard University <br>B.S. | Duke University <br><a href="mailto:chewwl@gis.a-star.edu.sg">Email</a>
   
-![GUO Ke](https://chewlab.github.io/assets/images/Guo-Ke-cropped.jpg){:height="180px"}
+![GUO Ke](https://chewlab.github.io/assets/images/Guo-Ke-cropped.jpg){:height="150px"}
 <br><b>GUO Ke</b> | Senior Research Officer<br>Ph.D. | University of Berne  <br>B.S. | Henan Medical University <br><a href="mailto:guok@gis.a-star.edu.sg">Email</a>
 
-![GOH Si Wei](https://chewlab.github.io/assets/images/Goh-Si-Wei-cropped.jpg){:height="180px"}
+![GOH Si Wei](https://chewlab.github.io/assets/images/Goh-Si-Wei-cropped.jpg){:height="150px"}
 <br><b>GOH Si Wei</b> | Research Officer <br>B.S. | National University of Singapore <br><a href="mailto:goh_si_wei@gis.a-star.edu.sg">Email</a>
 
-![Bagus SARMITO](https://chewlab.github.io/assets/images/Bagus_Sarmito_cropped.jpg){:height="180px"}
+![Bagus SARMITO](https://chewlab.github.io/assets/images/Bagus_Sarmito_cropped.jpg){:height="150px"}
 <br><b>Bagus SARMITO</b> | Student Intern <br>B.S. | Atma Jaya Catholic University
 
 
-<table width="100%" height="30%" border="1">
-<tr>
-<td>
-<img src="https://chewlab.github.io/assets/images/Bagus_Sarmito_cropped.jpg" width="25%"/>
-</td>
-<td>
-<b>Bagus SARMITO</b> | Student Intern <br>B.S. | Atma Jaya Catholic University
-</td>
-</tr>
-</table>
+<HR WIDTH="60%" NOSHADE>
 
 
-
-<center>
 <b><br />
 * We are recruiting postdocs/ROs/students. Email and come chat!<br />
 <br />
@@ -43,4 +33,6 @@ published: true
 <a href="https://www.a-star.edu.sg/gis/Connect/Careers/Careers-Details.aspx?id=283">Postdoc - Immunology</a><br />
 <a href="https://www.a-star.edu.sg/gis/Connect/Careers/Careers-Details.aspx?id=281">Research Officer</a><br />
 </b>
-  </center>
+
+  
+</center>
