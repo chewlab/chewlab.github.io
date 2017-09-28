@@ -1,7 +1,7 @@
 # Site settings
 title: REWRITING LIFE
 email: chewwl@gis.a-star.edu.sg
-description: The Chew Lab @ Genome Institute of Singapore
+description: Gene, Genome, Genetics, Gene-targeting, Genome-editing, Genome-engineering, CRISPR-Cas9, Cas9, CRISPR, Cpf1, Cas12a, Cas13a, immune, immunogenicity, chew, wei, leong, Singapore, Institute, research, biology, DNA, RNA.
 #baseurl: "" # the subpath of your site, e.g. /blog
 url: https://chewlab.github.io
 author: Wei Leong CHEW
@@ -10,8 +10,6 @@ city: Singapore
 zip_code: 138672
 country: Singapore
 phone: (65) 6808-8044
-
-keywords: Gene, Genome, Genetics, Gene-targeting, Genome-editing, CRISPR-Cas9, Cas9, CRISPR, Cpf1, Cas12a, Cas13a, immune, immunogenicity, chew, wei, leong, Singapore, Institute, research, biology, DNA, RNA.
 
 # icon: fa-circle # Font Awesome class for your site's icon
 
