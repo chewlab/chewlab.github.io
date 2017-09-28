@@ -11,11 +11,16 @@ zip_code: 138672
 country: Singapore
 phone: (65) 6808-8044
 
+keywords: Gene, Genome, Genetics, Gene-targeting, Genome-editing, CRISPR-Cas9, Cas9, CRISPR, Cpf1, Cas12a, Cas13a, immune, immunogenicity, chew, wei, leong, Singapore, Institute, research, biology, DNA, RNA.
+
 # icon: fa-circle # Font Awesome class for your site's icon
 
 # Social settings
 github_url: https://chewlab.github.io/
 twitter_url: 
+
+plugins:
+  - jekyll-seo-tag
 
 # Build settings
 markdown: kramdown
