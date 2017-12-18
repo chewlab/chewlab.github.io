@@ -19,6 +19,9 @@ published: true
 ![Bagus SARMITO](https://chewlab.github.io/assets/images/Bagus_Sarmito_cropped.jpg){:height="150px"}
 <br><b>Bagus SARMITO</b> | Student Intern <br>B.S. | Atma Jaya Catholic University
 
+![KIM Sung Hwan](https://chewlab.github.io/assets/images/KIM Sung Hwan_cropped.jpg){:height="150px"}
+<br><b>KIM Sung Hwan</b> | SIPGA Student <br>M.Sc. | Seoul National University <br>B.S. | Hanyang University
+
 
 <center>
 <HR WIDTH="60%" NOSHADE>
