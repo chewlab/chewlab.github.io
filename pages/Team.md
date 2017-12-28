@@ -13,7 +13,7 @@ published: true
 ![Nicholas ONG](https://chewlab.github.io/assets/images/Nicholas_Ong_cropped.jpg){:height="150px"}
 <br><b>Nicholas ONG</b> | Research Fellow (NSS BS-PhD)<br>Ph.D. | Rice University <br>B.S. | Duke University <br><a href="mailto:nicholas_ong@gis.a-star.edu.sg">Email</a>
 
-![Eddie KENG Choong Tat](https://chewlab.github.io/assets/images/Eddie_Keng _Choong_Tat_cropped.jpg){:height="150px"}
+![Eddie KENG Choong Tat](https://chewlab.github.io/assets/images/Eddie_Keng_Choong_Tat_cropped.jpg){:height="150px"}
 <br><b>Eddie KENG Choong Tat</b> | Postdoctoral Fellow<br>Ph.D. | National University of Singapore <br>M.Sc. | Nanyang Technological University, Singapore <br>B.S. | National University of Singapore <br><a href="mailto:Keng_Choong_Tat@gis.a-star.edu.sg">Email</a>
   
 ![GUO Ke](https://chewlab.github.io/assets/images/Guo-Ke-cropped.jpg){:height="150px"}
