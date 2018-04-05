@@ -25,6 +25,9 @@ published: true
 ![Bagus SARMITO](https://chewlab.github.io/assets/images/Bagus_Sarmito_cropped.jpg){:height="150px"}
 <br><b>Bagus SARMITO</b> | Student Intern <br>B.S. | Atma Jaya Catholic University
 
+<br>
+<b>Alumni</b>
+
 ![KIM Sung Hwan](https://chewlab.github.io/assets/images/KIM_Sung_Hwan_cropped.jpg){:height="150px"}
 <br><b>KIM Sung Hwan</b> | SIPGA Student <br>M.Sc. | Seoul National University <br>B.S. | Hanyang University
 
@@ -37,7 +40,6 @@ published: true
 </b>
 <a href="https://www.a-star.edu.sg/gis/Connect/Careers/Careers-Details.aspx?id=282">Postdoc - Genome-editing technologies</a><br />
 <a href="https://www.a-star.edu.sg/gis/Connect/Careers/Careers-Details.aspx?id=284">Postdoc - Molecular engineering</a><br />
-<a href="https://www.a-star.edu.sg/gis/Connect/Careers/Careers-Details.aspx?id=280">Postdoc - Virology</a><br />
 <a href="https://www.a-star.edu.sg/gis/Connect/Careers/Careers-Details.aspx?id=283">Postdoc - Immunology</a><br />
 <a href="https://www.a-star.edu.sg/gis/Connect/Careers/Careers-Details.aspx?id=281">Research Officer</a><br />
 
