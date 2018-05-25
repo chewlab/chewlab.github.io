@@ -16,7 +16,7 @@ published: true
 ![Eddie KENG Choong Tat](https://chewlab.github.io/assets/images/Eddie_Keng_Choong_Tat_cropped.jpg){:height="150px"}
 <br><b>Eddie KENG Choong Tat</b> | Postdoctoral Fellow<br>Ph.D. | National University of Singapore <br>M.Sc. | Nanyang Technological University, Singapore <br>B.S. | National University of Singapore <br><a href="mailto:Keng_Choong_Tat@gis.a-star.edu.sg">Email</a>
 
-![Hong-Ting Prekop](https://chewlab.github.io/assets/images/Hong_Ting_Prekop_cropped.jpg){:height="150px"}
+![Hong-Ting PREKOP](https://chewlab.github.io/assets/images/Hong_Ting_Prekop_cropped.jpg){:height="150px"}
 <br><b>Hong-Ting PREKOP</b> | Postdoctoral Fellow<br>Ph.D. | King's College London <br>MRes | Imperial College London <br>B.A. | University of Cambridge <br><a href="mailto:HongTing_Prekop@gis.a-star.edu.sg">Email</a>
 
 ![GUO Ke](https://chewlab.github.io/assets/images/Guo-Ke-cropped.jpg){:height="150px"}
@@ -25,14 +25,14 @@ published: true
 ![GOH Si Wei](https://chewlab.github.io/assets/images/Goh-Si-Wei-cropped.jpg){:height="150px"}
 <br><b>GOH Si Wei</b> | Research Officer <br>B.S. | National University of Singapore <br><a href="mailto:goh_si_wei@gis.a-star.edu.sg">Email</a>
 
-![Daryl Lim](https://chewlab.github.io/assets/images/Daryl_Lim_cropped.jpg){:height="150px"}
+![Daryl LIM](https://chewlab.github.io/assets/images/Daryl_Lim_cropped.jpg){:height="150px"}
 <br><b>Daryl LIM</b> | Research Officer <br>B.S. | National University of Singapore <br><a href="mailto:Daryl_Lim@gis.a-star.edu.sg">Email</a>
 
 ![Bagus SARMITO](https://chewlab.github.io/assets/images/Bagus_Sarmito_cropped.jpg){:height="150px"}
 <br><b>Bagus SARMITO</b> | Student Intern <br>B.S. | Atma Jaya Catholic University
 
-![Franciscus Asisi Atmadi](https://chewlab.github.io/assets/images/Franciscus_Atmadi_cropped.jpg){:height="150px"}
-<br><b>Franciscus Asisi Atmadi</b> | Student Intern <br>B.S. | National University of Singapore
+![Franciscus Asisi ATMADI](https://chewlab.github.io/assets/images/Franciscus_Atmadi_cropped.jpg){:height="150px"}
+<br><b>Franciscus Asisi ATMADI</b> | Student Intern <br>B.S. | National University of Singapore
 
 <br>
 <b>Alumni</b>
