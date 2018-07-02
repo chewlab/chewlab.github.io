@@ -31,6 +31,9 @@ published: true
 ![Bagus SARMITO](https://chewlab.github.io/assets/images/Bagus_Sarmito_cropped.jpg){:height="150px"}
 <br><b>Bagus SARMITO</b> | Student Intern <br>B.S. | Atma Jaya Catholic University
 
+![Suraj VASANDANI](https://chewlab.github.io/assets/images/Suraj_Vasandani_cropped.jpg){:height="150px"}
+<br><b>Suraj VASANDANI</b> | Student Intern <br>B.S. | Atma Jaya Catholic University
+
 ![Franciscus Asisi ATMADI](https://chewlab.github.io/assets/images/Franciscus_Atmadi_cropped.jpg){:height="150px"}
 <br><b>Franciscus Asisi ATMADI</b> | Student Intern <br>B.S. | National University of Singapore
 
