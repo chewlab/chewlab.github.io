@@ -44,7 +44,7 @@ published: true
 <br><b>KIM Sung Hwan</b> | SIPGA Student, Dec 2017 - Feb 2018 <br>M.Sc. | Seoul National University <br>B.S. | Hanyang University
 
 ![Bagus SARMITO](https://chewlab.github.io/assets/images/Bagus_Sarmito_cropped.jpg){:height="150px"}
-<br><b>Bagus SARMITO</b> | Student Intern <br>B.S. | Atma Jaya Catholic University
+<br><b>Bagus SARMITO</b> | Student Intern, Jun 2017 - Jun 2018 <br>B.S. | Atma Jaya Catholic University
 
 <center>
 <HR WIDTH="60%" NOSHADE>
