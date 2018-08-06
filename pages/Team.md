@@ -55,6 +55,8 @@ published: true
 <a href="https://www.a-star.edu.sg/gis/Connect/Careers/Careers-Details.aspx?id=282">Postdoc - Genome-editing technologies</a><br />
 <a href="https://www.a-star.edu.sg/gis/Connect/Careers/Careers-Details.aspx?id=284">Postdoc - Molecular engineering</a><br />
 <a href="https://www.a-star.edu.sg/gis/Connect/Careers/Careers-Details.aspx?id=283">Postdoc - Immunology</a><br />
+<a href="https://www.a-star.edu.sg/gis/Connect/Careers/Careers-Details.aspx?id=306">Postdoc - AAV</a><br />
+<a href="https://www.a-star.edu.sg/gis/Connect/Careers/Careers-Details.aspx?id=307">Programme Manager</a><br />
 <a href="https://www.a-star.edu.sg/gis/Connect/Careers/Careers-Details.aspx?id=281">Research Officer</a><br />
 
 </center>
