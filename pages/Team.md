@@ -34,11 +34,12 @@ published: true
 ![Suraj VASANDANI](https://chewlab.github.io/assets/images/Suraj_Vasandani_cropped.jpg){:height="150px"}
 <br><b>Suraj VASANDANI</b> | Student Intern <br>B.S. | Atma Jaya Catholic University
 
-![Franciscus Asisi ATMADI](https://chewlab.github.io/assets/images/Franciscus_Atmadi_cropped.jpg){:height="150px"}
-<br><b>Franciscus Asisi ATMADI</b> | Student Intern <br>B.S. | National University of Singapore
 
 <br>
 <b>Alumni</b>
+
+![Franciscus Asisi ATMADI](https://chewlab.github.io/assets/images/Franciscus_Atmadi_cropped.jpg){:height="150px"}
+<br><b>Franciscus Asisi ATMADI</b> | Student Intern, May 2018 - Aug 2018 <br>B.S. | National University of Singapore
 
 ![KIM Sung Hwan](https://chewlab.github.io/assets/images/KIM_Sung_Hwan_cropped.jpg){:height="150px"}
 <br><b>KIM Sung Hwan</b> | SIPGA Student, Dec 2017 - Feb 2018 <br>M.Sc. | Seoul National University <br>B.S. | Hanyang University
