@@ -22,6 +22,9 @@ published: true
 ![GUO Ke](https://chewlab.github.io/assets/images/Guo-Ke-cropped.jpg){:height="150px"}
 <br><b>GUO Ke</b> | Senior Research Officer<br>Ph.D. | University of Berne  <br>B.S. | Henan Medical University <br><a href="mailto:guok@gis.a-star.edu.sg">Email</a>
 
+![CHEN Liwei](https://chewlab.github.io/assets/images/Chen_Liwei_cropped.jpg){:height="150px"}
+<br><b>CHEN Liwei</b> | Research Officer <br>M.Sc. | Harvard University <br>B.S. | University of Chicago <br><a href="mailto:chen_liwei@gis.a-star.edu.sg">Email</a>
+
 ![GOH Si Wei](https://chewlab.github.io/assets/images/Goh-Si-Wei-cropped.jpg){:height="150px"}
 <br><b>GOH Si Wei</b> | Research Officer <br>B.S. | National University of Singapore <br><a href="mailto:goh_si_wei@gis.a-star.edu.sg">Email</a>
 
