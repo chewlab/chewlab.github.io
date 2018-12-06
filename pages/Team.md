@@ -33,9 +33,13 @@ published: true
 
 ![Peter Jim PAA](https://chewlab.github.io/assets/images/Peter_Jim_Paa_cropped.jpg){:height="150px"}
 <br><b>Peter Jim PAA</b> | Graduate Student (SINGA) <br>B.S. (First Class) | University of Manitoba <br>B.S. | University of the Philippines 
+<br><a href="mailto:paa_peter_from.tp@gis.a-star.edu.sg">Email</a>
 
 ![Suraj VASANDANI](https://chewlab.github.io/assets/images/Suraj_Vasandani_cropped.jpg){:height="150px"}
 <br><b>Suraj VASANDANI</b> | Student Intern <br>B.S. | Atma Jaya Catholic University
+
+![CHOK Kian Chung](https://chewlab.github.io/assets/images/Chok_Kian_Chung_cropped.jpg){:height="150px"}
+<br><b>CHOK Kian Chung</b> | Student Intern <br>B.S. | International Medical University
 
 
 <br>
