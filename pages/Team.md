@@ -44,6 +44,9 @@ published: true
 ![CHOK Kian Chung](https://chewlab.github.io/assets/images/Chok_Kian_Chung_cropped.jpg){:height="150px"}
 <br><b>CHOK Kian Chung</b> | Student Intern <br>B.S. | International Medical University
 
+![Sabranth GUPTA](https://chewlab.github.io/assets/images/Sabranth_Gupta_cropped.jpg){:height="150px"}
+<br><b>Sabranth GUPTA</b> | Student Intern <br>B.S. | Vellore Institute of Technology
+
 
 <br>
 <b>Alumni</b>
