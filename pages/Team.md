@@ -41,15 +41,20 @@ published: true
 ![Suraj VASANDANI](https://chewlab.github.io/assets/images/Suraj_Vasandani_cropped.jpg){:height="150px"}
 <br><b>Suraj VASANDANI</b> | Student Intern <br>B.S. | Atma Jaya Catholic University
 
-![CHOK Kian Chung](https://chewlab.github.io/assets/images/Chok_Kian_Chung_cropped.jpg){:height="150px"}
-<br><b>CHOK Kian Chung</b> | Student Intern <br>B.S. | International Medical University
-
 ![Sabranth GUPTA](https://chewlab.github.io/assets/images/Sabranth_Gupta_cropped.jpg){:height="150px"}
 <br><b>Sabranth GUPTA</b> | Student Intern <br>B.Tech. | Vellore Institute of Technology
 
+![Jerry TAN Wei Heng](https://chewlab.github.io/assets/images/Jerry_Tan_Wei_Heng_cropped.jpg){:height="150px"}
+<br><b>Jerry TAN Wei Heng</b> | Student Intern <br>Commencing undergraduate studies
+
+![Lee Swee Leng](https://chewlab.github.io/assets/images/Lee_Swee_Leng_cropped.jpg){:height="150px"}
+<br><b>LEE Swee Leng</b> | Student Intern <br>Commencing undergraduate studies
 
 <br>
 <b>Alumni</b>
+
+![CHOK Kian Chung](https://chewlab.github.io/assets/images/Chok_Kian_Chung_cropped.jpg){:height="150px"}
+<br><b>CHOK Kian Chung</b> | Student Intern <br>B.S. | International Medical University
 
 ![Franciscus Asisi ATMADI](https://chewlab.github.io/assets/images/Franciscus_Atmadi_cropped.jpg){:height="150px"}
 <br><b>Franciscus Asisi ATMADI</b> | Student Intern, May 2018 - Aug 2018 <br>B.S. | National University of Singapore
@@ -70,7 +75,6 @@ published: true
 <a href="https://www.a-star.edu.sg/gis/Connect/Careers/Careers-Details.aspx?id=284">Postdoc - Molecular engineering</a><br />
 <a href="https://www.a-star.edu.sg/gis/Connect/Careers/Careers-Details.aspx?id=283">Postdoc - Immunology</a><br />
 <a href="https://www.a-star.edu.sg/gis/Connect/Careers/Careers-Details.aspx?id=306">Postdoc - AAV</a><br />
-<a href="https://www.a-star.edu.sg/gis/Connect/Careers/Careers-Details.aspx?id=307">Programme Manager</a><br />
 <a href="https://www.a-star.edu.sg/gis/Connect/Careers/Careers-Details.aspx?id=281">Research Officer</a><br />
 
 </center>
