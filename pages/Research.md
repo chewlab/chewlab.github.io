@@ -5,4 +5,8 @@ image: IMG_1519.JPG
 permalink: /Research/
 published: true
 ---
-![OUR RESEARCH](https://chewlab.github.io/assets/images/OurResearch.jpg){:width="100%"}
+![OUR RESEARCH](https://chewlab.github.io/assets/images/ResearchStatement.png){:width="100%"}
+
+<h1><br><b>Our team builds technologies for a world without diseases. We build technologies so that we can engineer DNA, make pinpoint changes to genes with CRISPR, deliver treatments with adeno-associated viruses (AAVs), make safer therapeutics that bypass adverse immune reactions, fight diseases, and save lives. Our overarching motivation is to establish safe and efficacious genome therapeutics for routine human use.
+<br>
+This is how we create new medicines. This is how we engineer life.</b></h1>
