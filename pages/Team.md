@@ -31,12 +31,12 @@ published: true
 ![Suraj VASANDANI](https://chewlab.github.io/assets/images/Suraj_Vasandani_cropped.jpg){:height="150px"}
 <br><b>Suraj VASANDANI</b> | Student Intern <br>B.S. | Atma Jaya Catholic University
 
-![CHEN Liwei](https://chewlab.github.io/assets/images/Chen_Liwei_cropped.jpg){:height="150px"}
-<br><b>CHEN Liwei</b> | Research Officer <br>M.Sc. | Harvard University <br>B.S. | University of Chicago <br><a href="mailto:chen_liwei@gis.a-star.edu.sg">Email</a>
-
 ![Peter Jim PAA](https://chewlab.github.io/assets/images/Peter_Jim_Paa_cropped.jpg){:height="150px"}
 <br><b>Peter Jim PAA</b> | Graduate Student (SINGA) <br>B.S. (First Class) | University of Manitoba <br>B.S. | University of the Philippines 
 <br><a href="mailto:paa_peter_from.tp@gis.a-star.edu.sg">Email</a>
+
+![CHEN Liwei](https://chewlab.github.io/assets/images/Chen_Liwei_cropped.jpg){:height="150px"}
+<br><b>CHEN Liwei</b> | Research Officer <br>M.Sc. | Harvard University <br>B.S. | University of Chicago <br><a href="mailto:chen_liwei@gis.a-star.edu.sg">Email</a>
 
 ![Anna Traczyk](https://chewlab.github.io/assets/images/Anna_Traczyk_cropped.jpg){:height="150px"}
 <br><b>Anna TRACZYK</b> | Postdoctoral Fellow<br>Ph.D. | Nanyang Technological University <br>Master's | Warsaw University of Technology <br>B.S. | Warsaw University of Technology <br><a href="mailto:anna_traczyk@gis.a-star.edu.sg">Email</a>
