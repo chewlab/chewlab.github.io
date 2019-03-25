@@ -69,7 +69,7 @@ published: true
 <HR WIDTH="60%" NOSHADE>
 
 <b>
-* We are recruiting talented postdocs and research officers.<br>We mentor students through <a href="https://www.a-star.edu.sg/Scholarships/For-Undergraduate-Studies/Overview">A*STAR scholarships</a> and inter-institutional collaborations.<br>Email and come chat!<br />
+* We are recruiting talented postdocs and research officers.<br>We mentor students through <a href="https://www.a-star.edu.sg/Scholarships/Overview">A*STAR scholarships</a> and inter-institutional collaborations.<br>Email and come chat!<br />
 </b>
 <a href="https://www.a-star.edu.sg/gis/Connect/Careers/Careers-Details.aspx?id=282">Postdoc - Genome-editing technologies</a><br />
 <a href="https://www.a-star.edu.sg/gis/Connect/Careers/Careers-Details.aspx?id=284">Postdoc - Molecular engineering</a><br />
