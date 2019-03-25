@@ -9,7 +9,13 @@ published: true
 
 ![Wei Leong CHEW](https://chewlab.github.io/assets/images/Chew-Wei-Leong-cropped.jpg){:height="150px"}
 <br><b>Wei Leong CHEW</b> | Principal Investigator<br>Ph.D. | Harvard University <br>B.S. | Duke University <br><a href="mailto:chewwl@gis.a-star.edu.sg">Email</a>
-    
+
+![GUO Ke](https://chewlab.github.io/assets/images/Guo-Ke-cropped.jpg){:height="150px"}
+<br><b>GUO Ke</b> | Senior Research Officer<br>Ph.D. | University of Berne  <br>B.S. | Henan Medical University <br><a href="mailto:guok@gis.a-star.edu.sg">Email</a>
+
+![GOH Si Wei](https://chewlab.github.io/assets/images/Goh-Si-Wei-cropped.jpg){:height="150px"}
+<br><b>GOH Si Wei</b> | Research Officer <br>B.S. | National University of Singapore <br><a href="mailto:goh_si_wei@gis.a-star.edu.sg">Email</a>
+
 ![Nicholas ONG](https://chewlab.github.io/assets/images/Nicholas_Ong_cropped.jpg){:height="150px"}
 <br><b>Nicholas ONG</b> | Research Fellow (NSS BS-PhD)<br>Ph.D. | Rice University <br>B.S. | Duke University <br><a href="mailto:nicholas_ong@gis.a-star.edu.sg">Email</a>
 
@@ -19,27 +25,21 @@ published: true
 ![Hong-Ting PREKOP](https://chewlab.github.io/assets/images/Hong_Ting_Prekop_cropped.jpg){:height="150px"}
 <br><b>Hong-Ting PREKOP</b> | Postdoctoral Fellow<br>Ph.D. | King's College London <br>MRes | Imperial College London <br>B.A. | University of Cambridge <br><a href="mailto:HongTing_Prekop@gis.a-star.edu.sg">Email</a>
 
-![Anna Traczyk](https://chewlab.github.io/assets/images/Anna_Traczyk_cropped.jpg){:height="150px"}
-<br><b>Anna TRACZYK</b> | Postdoctoral Fellow<br>Ph.D. | Nanyang Technological University <br>Master's | Warsaw University of Technology <br>B.S. | Warsaw University of Technology <br><a href="mailto:anna_traczyk@gis.a-star.edu.sg">Email</a>
+![Daryl LIM](https://chewlab.github.io/assets/images/Daryl_Lim_cropped.jpg){:height="150px"}
+<br><b>Daryl LIM</b> | Research Officer <br>B.S. | National University of Singapore <br><a href="mailto:Daryl_Lim@gis.a-star.edu.sg">Email</a>
 
-![GUO Ke](https://chewlab.github.io/assets/images/Guo-Ke-cropped.jpg){:height="150px"}
-<br><b>GUO Ke</b> | Senior Research Officer<br>Ph.D. | University of Berne  <br>B.S. | Henan Medical University <br><a href="mailto:guok@gis.a-star.edu.sg">Email</a>
+![Suraj VASANDANI](https://chewlab.github.io/assets/images/Suraj_Vasandani_cropped.jpg){:height="150px"}
+<br><b>Suraj VASANDANI</b> | Student Intern <br>B.S. | Atma Jaya Catholic University
 
 ![CHEN Liwei](https://chewlab.github.io/assets/images/Chen_Liwei_cropped.jpg){:height="150px"}
 <br><b>CHEN Liwei</b> | Research Officer <br>M.Sc. | Harvard University <br>B.S. | University of Chicago <br><a href="mailto:chen_liwei@gis.a-star.edu.sg">Email</a>
-
-![GOH Si Wei](https://chewlab.github.io/assets/images/Goh-Si-Wei-cropped.jpg){:height="150px"}
-<br><b>GOH Si Wei</b> | Research Officer <br>B.S. | National University of Singapore <br><a href="mailto:goh_si_wei@gis.a-star.edu.sg">Email</a>
-
-![Daryl LIM](https://chewlab.github.io/assets/images/Daryl_Lim_cropped.jpg){:height="150px"}
-<br><b>Daryl LIM</b> | Research Officer <br>B.S. | National University of Singapore <br><a href="mailto:Daryl_Lim@gis.a-star.edu.sg">Email</a>
 
 ![Peter Jim PAA](https://chewlab.github.io/assets/images/Peter_Jim_Paa_cropped.jpg){:height="150px"}
 <br><b>Peter Jim PAA</b> | Graduate Student (SINGA) <br>B.S. (First Class) | University of Manitoba <br>B.S. | University of the Philippines 
 <br><a href="mailto:paa_peter_from.tp@gis.a-star.edu.sg">Email</a>
 
-![Suraj VASANDANI](https://chewlab.github.io/assets/images/Suraj_Vasandani_cropped.jpg){:height="150px"}
-<br><b>Suraj VASANDANI</b> | Student Intern <br>B.S. | Atma Jaya Catholic University
+![Anna Traczyk](https://chewlab.github.io/assets/images/Anna_Traczyk_cropped.jpg){:height="150px"}
+<br><b>Anna TRACZYK</b> | Postdoctoral Fellow<br>Ph.D. | Nanyang Technological University <br>Master's | Warsaw University of Technology <br>B.S. | Warsaw University of Technology <br><a href="mailto:anna_traczyk@gis.a-star.edu.sg">Email</a>
 
 ![Sabranth GUPTA](https://chewlab.github.io/assets/images/Sabranth_Gupta_cropped.jpg){:height="150px"}
 <br><b>Sabranth GUPTA</b> | Student Intern <br>B.Tech. | Vellore Institute of Technology
