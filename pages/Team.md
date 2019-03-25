@@ -6,26 +6,15 @@ permalink: /Team/
 published: true
 ---
 
-<div class="row">
-  <div class="col-lg-3" markdown="1">
 
 ![Wei Leong CHEW](https://chewlab.github.io/assets/images/Chew-Wei-Leong-cropped.jpg){:height="150px"}
 <br><b>Wei Leong CHEW</b> | Principal Investigator<br>Ph.D. | Harvard University <br>B.S. | Duke University <br><a href="mailto:chewwl@gis.a-star.edu.sg">Email</a>
-
-  </div>
-  <div class="col-lg-3" markdown="1">
     
 ![Nicholas ONG](https://chewlab.github.io/assets/images/Nicholas_Ong_cropped.jpg){:height="150px"}
 <br><b>Nicholas ONG</b> | Research Fellow (NSS BS-PhD)<br>Ph.D. | Rice University <br>B.S. | Duke University <br><a href="mailto:nicholas_ong@gis.a-star.edu.sg">Email</a>
 
-  </div>
-  <div class="col-lg-3" markdown="1">
-
 ![Eddie KENG Choong Tat](https://chewlab.github.io/assets/images/Eddie_Keng_Choong_Tat_cropped.jpg){:height="150px"}
 <br><b>Eddie KENG Choong Tat</b> | Postdoctoral Fellow<br>Ph.D. | National University of Singapore <br>M.Sc. | Nanyang Technological University, Singapore <br>B.S. | National University of Singapore <br><a href="mailto:Keng_Choong_Tat@gis.a-star.edu.sg">Email</a>
-
-  </div>
-  </div> 
     
 ![Hong-Ting PREKOP](https://chewlab.github.io/assets/images/Hong_Ting_Prekop_cropped.jpg){:height="150px"}
 <br><b>Hong-Ting PREKOP</b> | Postdoctoral Fellow<br>Ph.D. | King's College London <br>MRes | Imperial College London <br>B.A. | University of Cambridge <br><a href="mailto:HongTing_Prekop@gis.a-star.edu.sg">Email</a>
