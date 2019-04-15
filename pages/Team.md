@@ -47,8 +47,11 @@ published: true
 ![Jerry TAN Wei Heng](https://chewlab.github.io/assets/images/Jerry_Tan_Wei_Heng_cropped.jpg){:height="150px"}
 <br><b>Jerry TAN Wei Heng</b> | Student Intern <br>Commencing undergraduate studies
 
-![Lee Swee Leng](https://chewlab.github.io/assets/images/Lee_Swee_Leng_cropped.jpg){:height="150px"}
+![LEE Swee Leng](https://chewlab.github.io/assets/images/Lee_Swee_Leng_cropped.jpg){:height="150px"}
 <br><b>LEE Swee Leng</b> | Student Intern <br>Commencing undergraduate studies
+
+![Hannah NICHOLAS](https://chewlab.github.io/assets/images/Hannah_Nicholas_cropped.jpg){:height="150px"}
+<br><b>Hannah NICHOLAS</b> | Programme Manager<br>Senior Lecturer in Molecular Biology (Tenured research and teaching) | University of Sydney <br>DPhil | University of Oxford <br>BMedSci | University of Sydney <br><a href="mailto:Hannah_Nicholas@gis.a-star.edu.sg">Email</a>
 
 <br>
 <b>Alumni</b>
