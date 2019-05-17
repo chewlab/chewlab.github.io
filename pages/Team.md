@@ -54,7 +54,7 @@ published: true
 <br><b>Hannah NICHOLAS</b> | Programme Manager<br>Senior Lecturer in Molecular Biology (Tenured research and teaching) | University of Sydney <br>DPhil | University of Oxford <br>BMedSci | University of Sydney <br><a href="mailto:Hannah_Nicholas@gis.a-star.edu.sg">Email</a>
 
 ![Priscilla RAJAKUMAR](https://chewlab.github.io/assets/images/Priscilla_Rajakumar_cropped.jpg){:height="150px"}
-<br><b>Priscilla RAJAKUMAR</b> | Postdoctoral Fellow<br>PhD | University College London <br>Masters | University of Malaya <br> Bachelor | Kolej Universiti Sains dan Teknologi Malaysia <a href="mailto:Priscilla_Dorothy_Rajakumar@gis.a-star.edu.sg">Email</a>
+<br><b>Priscilla RAJAKUMAR</b> | Postdoctoral Fellow<br>PhD | University College London <br>Masters | University of Malaya <br> Bachelor | Kolej Universiti Sains dan Teknologi Malaysia <br><a href="mailto:Priscilla_Dorothy_Rajakumar@gis.a-star.edu.sg">Email</a>
 
 <br>
 <b>Alumni</b>
