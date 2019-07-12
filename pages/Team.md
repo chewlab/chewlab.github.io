@@ -13,9 +13,6 @@ published: true
 ![GUO Ke](https://chewlab.github.io/assets/images/Guo-Ke-cropped.jpg){:height="150px"}
 <br><b>GUO Ke</b> | Senior Research Officer<br>Ph.D. | University of Berne  <br>B.S. | Henan Medical University <br><a href="mailto:guok@gis.a-star.edu.sg">Email</a>
 
-![GOH Si Wei](https://chewlab.github.io/assets/images/Goh-Si-Wei-cropped.jpg){:height="150px"}
-<br><b>GOH Si Wei</b> | Research Officer <br>B.S. | National University of Singapore <br><a href="mailto:goh_si_wei@gis.a-star.edu.sg">Email</a>
-
 ![Nicholas ONG](https://chewlab.github.io/assets/images/Nicholas_Ong_cropped.jpg){:height="150px"}
 <br><b>Nicholas ONG</b> | Research Fellow (NSS BS-PhD)<br>Ph.D. | Rice University <br>B.S. | Duke University <br><a href="mailto:nicholas_ong@gis.a-star.edu.sg">Email</a>
 
@@ -27,9 +24,6 @@ published: true
 
 ![Daryl LIM](https://chewlab.github.io/assets/images/Daryl_Lim_cropped.jpg){:height="150px"}
 <br><b>Daryl LIM</b> | Research Officer <br>B.S. | National University of Singapore <br><a href="mailto:Daryl_Lim@gis.a-star.edu.sg">Email</a>
-
-![Suraj VASANDANI](https://chewlab.github.io/assets/images/Suraj_Vasandani_cropped.jpg){:height="150px"}
-<br><b>Suraj VASANDANI</b> | Student Intern <br>B.S. | Atma Jaya Catholic University
 
 ![Peter Jim PAA](https://chewlab.github.io/assets/images/Peter_Jim_Paa_cropped.jpg){:height="150px"}
 <br><b>Peter Jim PAA</b> | Graduate Student (SINGA) <br>B.S. (First Class) | University of Manitoba <br>B.S. | University of the Philippines 
@@ -56,11 +50,17 @@ published: true
 ![Priscilla RAJAKUMAR](https://chewlab.github.io/assets/images/Priscilla_Rajakumar_cropped.jpg){:height="150px"}
 <br><b>Priscilla RAJAKUMAR</b> | Postdoctoral Fellow<br>PhD | University College London <br>Masters | University of Malaya <br> Bachelor | Kolej Universiti Sains dan Teknologi Malaysia <br><a href="mailto:Priscilla_Dorothy_Rajakumar@gis.a-star.edu.sg">Email</a>
 
+![CHEW Yi Ting](https://chewlab.github.io/assets/images/Chew_Yi_Ting_cropped.jpg){:height="150px"}
+<br><b>CHEW Yi Ting</b> | Student Intern (NSS 8-week) <br>B.A. | University of Cambridge
+
 <br>
 <b>Alumni</b>
 
 ![CHOK Kian Chung](https://chewlab.github.io/assets/images/Chok_Kian_Chung_cropped.jpg){:height="150px"}
-<br><b>CHOK Kian Chung</b> | Student Intern <br>B.S. | International Medical University
+<br><b>CHOK Kian Chung</b> | Student Intern, Dec 2018 - Mar 2019 <br>B.S. | International Medical University
+
+![Suraj VASANDANI](https://chewlab.github.io/assets/images/Suraj_Vasandani_cropped.jpg){:height="150px"}
+<br><b>Suraj VASANDANI</b> | Student Intern, Jun 2018 - Jun 2019 <br>B.S. | Atma Jaya Catholic University
 
 ![Franciscus Asisi ATMADI](https://chewlab.github.io/assets/images/Franciscus_Atmadi_cropped.jpg){:height="150px"}
 <br><b>Franciscus Asisi ATMADI</b> | Student Intern, May 2018 - Aug 2018 <br>B.S. | National University of Singapore
@@ -70,6 +70,9 @@ published: true
 
 ![Bagus SARMITO](https://chewlab.github.io/assets/images/Bagus_Sarmito_cropped.jpg){:height="150px"}
 <br><b>Bagus SARMITO</b> | Student Intern, Jun 2017 - Jun 2018 <br>B.S. | Atma Jaya Catholic University
+
+![GOH Si Wei](https://chewlab.github.io/assets/images/Goh-Si-Wei-cropped.jpg){:height="150px"}
+<br><b>GOH Si Wei</b> | Research Officer, Jun 2017 - Jun 2019 <br>B.S. | National University of Singapore <br><a href="mailto:goh_si_wei@gis.a-star.edu.sg">Email</a>
 
 <center>
 <HR WIDTH="60%" NOSHADE>
