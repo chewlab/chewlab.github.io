@@ -53,6 +53,12 @@ published: true
 ![CHEW Yi Ting](https://chewlab.github.io/assets/images/Chew_Yi_Ting_cropped.jpg){:height="150px"}
 <br><b>CHEW Yi Ting</b> | Student Intern (NSS 8-week) <br>B.A. | University of Cambridge
 
+![Swathi Nachiar MANIVANNAN](https://chewlab.github.io/assets/images/Swathi_Nachiar_Manivannan_cropped.jpg){:height="150px"}
+<br><b>Swathi Nachiar MANIVANNAN</b> | Student Intern (NSS 8-week) <br>B.A. | University of Cambridge
+
+![HWANG Xueyan](https://chewlab.github.io/assets/images/Hwang_Xueyan_cropped.jpg){:height="150px"}
+<br><b>HWANG Xueyan</b> | Student Intern <br>B.A. | University of Cambridge
+
 <br>
 <b>Alumni</b>
 
