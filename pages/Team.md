@@ -78,7 +78,7 @@ published: true
 <br><b>Bagus SARMITO</b> | Student Intern, Jun 2017 - Jun 2018 <br>B.S. | Atma Jaya Catholic University
 
 ![GOH Si Wei](https://chewlab.github.io/assets/images/Goh-Si-Wei-cropped.jpg){:height="150px"}
-<br><b>GOH Si Wei</b> | Research Officer, Jun 2017 - Jun 2019 <br>B.S. | National University of Singapore <br><a href="mailto:goh_si_wei@gis.a-star.edu.sg">Email</a>
+<br><b>GOH Si Wei</b> | Research Officer, Jun 2017 - Jun 2019 <br>B.S. | National University of Singapore 
 
 <center>
 <HR WIDTH="60%" NOSHADE>
