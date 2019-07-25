@@ -59,6 +59,9 @@ published: true
 ![HWANG Xueyan](https://chewlab.github.io/assets/images/Hwang_Xueyan_cropped.jpg){:height="150px"}
 <br><b>HWANG Xueyan</b> | Student Intern <br>B.A. | University of Cambridge
 
+![Amine MELIANI](https://chewlab.github.io/assets/images/Amine_Meliani_cropped.jpg){:height="150px"}
+<br><b>Amine MELIANI</b> | Postdoctoral Fellow<br>PhD | Sorbonne University; Genethon <br>Masters | Paris Descartes University; AgroParisTech <br> BSc | University of Algiers <br><a href="mailto:Mohamed_Amine@gis.a-star.edu.sg">Email</a>
+
 <br>
 <b>Alumni</b>
 
