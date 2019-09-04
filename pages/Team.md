@@ -35,15 +35,6 @@ published: true
 ![Anna Traczyk](https://chewlab.github.io/assets/images/Anna_Traczyk_cropped.jpg){:height="150px"}
 <br><b>Anna TRACZYK</b> | Postdoctoral Fellow<br>Ph.D. | Nanyang Technological University <br>Master's | Warsaw University of Technology <br>B.S. | Warsaw University of Technology <br><a href="mailto:anna_traczyk@gis.a-star.edu.sg">Email</a>
 
-![Sabranth GUPTA](https://chewlab.github.io/assets/images/Sabranth_Gupta_cropped.jpg){:height="150px"}
-<br><b>Sabranth GUPTA</b> | Student Intern <br>B.Tech. | Vellore Institute of Technology
-
-![Jerry TAN Wei Heng](https://chewlab.github.io/assets/images/Jerry_Tan_Wei_Heng_cropped.jpg){:height="150px"}
-<br><b>Jerry TAN Wei Heng</b> | Student Intern <br>Commencing undergraduate studies
-
-![LEE Swee Leng](https://chewlab.github.io/assets/images/Lee_Swee_Leng_cropped.jpg){:height="150px"}
-<br><b>LEE Swee Leng</b> | Student Intern <br>Commencing undergraduate studies
-
 ![Hannah NICHOLAS](https://chewlab.github.io/assets/images/Hannah_Nicholas_cropped.jpg){:height="150px"}
 <br><b>Hannah NICHOLAS</b> | Programme Manager<br>Senior Lecturer in Molecular Biology (Tenured research and teaching) | University of Sydney <br>DPhil | University of Oxford <br>BMedSci | University of Sydney <br><a href="mailto:Hannah_Nicholas@gis.a-star.edu.sg">Email</a>
 
@@ -67,6 +58,15 @@ published: true
 
 ![CHEW Yi Ting](https://chewlab.github.io/assets/images/Chew_Yi_Ting_cropped.jpg){:height="150px"}
 <br><b>CHEW Yi Ting</b> | Student Intern (NSS 8-week), Jun 2019 - Aug 2019 <br>B.A. | University of Cambridge
+
+![Sabranth GUPTA](https://chewlab.github.io/assets/images/Sabranth_Gupta_cropped.jpg){:height="150px"}
+<br><b>Sabranth GUPTA</b> | Student Intern, Feb 2019 - Aug 2019 <br>B.Tech. | Vellore Institute of Technology
+
+![Jerry TAN Wei Heng](https://chewlab.github.io/assets/images/Jerry_Tan_Wei_Heng_cropped.jpg){:height="150px"}
+<br><b>Jerry TAN Wei Heng</b> | Student Intern, Feb 2019 - Jul 2019 <br>Commencing undergraduate studies
+
+![LEE Swee Leng](https://chewlab.github.io/assets/images/Lee_Swee_Leng_cropped.jpg){:height="150px"}
+<br><b>LEE Swee Leng</b> | Student Intern, Feb 2019 - Jul 2019 <br>Commencing undergraduate studies
 
 ![CHOK Kian Chung](https://chewlab.github.io/assets/images/Chok_Kian_Chung_cropped.jpg){:height="150px"}
 <br><b>CHOK Kian Chung</b> | Student Intern, Dec 2018 - Mar 2019 <br>B.S. | International Medical University
