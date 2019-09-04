@@ -50,20 +50,23 @@ published: true
 ![Priscilla RAJAKUMAR](https://chewlab.github.io/assets/images/Priscilla_Rajakumar_cropped.jpg){:height="150px"}
 <br><b>Priscilla RAJAKUMAR</b> | Postdoctoral Fellow<br>PhD | University College London <br>Masters | University of Malaya <br> Bachelor | Kolej Universiti Sains dan Teknologi Malaysia <br><a href="mailto:Priscilla_Dorothy_Rajakumar@gis.a-star.edu.sg">Email</a>
 
-![CHEW Yi Ting](https://chewlab.github.io/assets/images/Chew_Yi_Ting_cropped.jpg){:height="150px"}
-<br><b>CHEW Yi Ting</b> | Student Intern (NSS 8-week) <br>B.A. | University of Cambridge
-
-![Swathi Nachiar MANIVANNAN](https://chewlab.github.io/assets/images/Swathi_Nachiar_Manivannan_cropped.jpg){:height="150px"}
-<br><b>Swathi Nachiar MANIVANNAN</b> | Student Intern (NSS 8-week) <br>B.A. | University of Cambridge
-
-![HWANG Xueyan](https://chewlab.github.io/assets/images/Hwang_Xueyan_cropped.jpg){:height="150px"}
-<br><b>HWANG Xueyan</b> | Student Intern <br>B.A. | University of Cambridge
-
 ![Amine MELIANI](https://chewlab.github.io/assets/images/Amine_Meliani_cropped.jpg){:height="150px"}
 <br><b>Amine MELIANI</b> | Postdoctoral Fellow<br>PhD | Sorbonne University; Genethon <br>Masters | Paris Descartes University; AgroParisTech <br> BSc | University of Algiers <br><a href="mailto:Mohamed_Amine@gis.a-star.edu.sg">Email</a>
 
+![Lavina Sierra TAY](https://chewlab.github.io/assets/images/Lavina_Sierra_Tay_cropped.jpg){:height="150px"}
+<br><b>Lavina Sierra TAY</b> | Programme Manager<br>Assistant Head | National Research Foundation, Singapore <br>PhD | National University of Singapore <br>BSc | University of Western Australia <br><a href="mailto:Lavina_Tay@gis.a-star.edu.sg">Email</a>
+
 <br>
 <b>Alumni</b>
+
+![Swathi Nachiar MANIVANNAN](https://chewlab.github.io/assets/images/Swathi_Nachiar_Manivannan_cropped.jpg){:height="150px"}
+<br><b>Swathi Nachiar MANIVANNAN</b> | Student Intern (NSS 8-week), Jul 2019 - Aug 2019 <br>B.A. | University of Cambridge
+
+![HWANG Xueyan](https://chewlab.github.io/assets/images/Hwang_Xueyan_cropped.jpg){:height="150px"}
+<br><b>HWANG Xueyan</b> | Student Intern, Jul 2019 - Aug 2019 <br>B.A. | University of Cambridge
+
+![CHEW Yi Ting](https://chewlab.github.io/assets/images/Chew_Yi_Ting_cropped.jpg){:height="150px"}
+<br><b>CHEW Yi Ting</b> | Student Intern (NSS 8-week), Jun 2019 - Aug 2019 <br>B.A. | University of Cambridge
 
 ![CHOK Kian Chung](https://chewlab.github.io/assets/images/Chok_Kian_Chung_cropped.jpg){:height="150px"}
 <br><b>CHOK Kian Chung</b> | Student Intern, Dec 2018 - Mar 2019 <br>B.S. | International Medical University
