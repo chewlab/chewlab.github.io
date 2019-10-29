@@ -47,6 +47,9 @@ published: true
 ![Lavina Sierra TAY](https://chewlab.github.io/assets/images/Lavina_Sierra_Tay_cropped.jpg){:height="150px"}
 <br><b>Lavina Sierra TAY</b> | Programme Manager<br>Assistant Head | National Research Foundation, Singapore <br>PhD | National University of Singapore <br>BSc | University of Western Australia <br><a href="mailto:Lavina_Tay@gis.a-star.edu.sg">Email</a>
 
+![June PARK Jung Eun](https://chewlab.github.io/assets/images/June_Park_Jung_Eun_cropped.jpg){:height="150px"}
+<br><b>June PARK Jung Eun</b> | Postdoctoral Fellow<br>PhD | Seoul National University <br>BSc | Seoul Women's University <br><a href="mailto:Park_Jung_Eun@gis.a-star.edu.sg">Email</a>
+
 <br>
 <b>Alumni</b>
 
