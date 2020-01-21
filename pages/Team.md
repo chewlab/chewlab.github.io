@@ -53,6 +53,9 @@ published: true
 ![Lekha RAVICHANDRAPRABHU](https://chewlab.github.io/assets/images/Lekha_Ravichandraprabhu_cropped.jpg){:height="150px"}
 <br><b>Lekha RAVICHANDRAPRABHU</b> | Research Officer <br>B.Eng. | Nanyang Technological University <br><a href="mailto:Lekha_Ravichandra_Prabhu@gis.a-star.edu.sg">Email</a>
 
+![MUHAMMAD Irfan Bin Hajis](https://chewlab.github.io/assets/images/Muhammad_Irfan_Bin_Hajis_cropped.jpg){:height="150px"}
+<br><b>MUHAMMAD Irfan Bin Hajis</b> | Attachement Student <br>B.Sc. | Nanyang Technological University <br>
+
 <br>
 <b>Alumni</b>
 
