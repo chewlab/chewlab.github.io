@@ -35,9 +35,6 @@ published: true
 ![Anna Traczyk](https://chewlab.github.io/assets/images/Anna_Traczyk_cropped.jpg){:height="150px"}
 <br><b>Anna TRACZYK</b> | Postdoctoral Fellow<br>Ph.D. | Nanyang Technological University <br>Master's | Warsaw University of Technology <br>B.S. | Warsaw University of Technology <br><a href="mailto:anna_traczyk@gis.a-star.edu.sg">Email</a>
 
-![Hannah NICHOLAS](https://chewlab.github.io/assets/images/Hannah_Nicholas_cropped.jpg){:height="150px"}
-<br><b>Hannah NICHOLAS</b> | Programme Manager<br>Senior Lecturer in Molecular Biology (Tenured research and teaching) | University of Sydney <br>DPhil | University of Oxford <br>BMedSci | University of Sydney <br><a href="mailto:Hannah_Nicholas@gis.a-star.edu.sg">Email</a>
-
 ![Priscilla RAJAKUMAR](https://chewlab.github.io/assets/images/Priscilla_Rajakumar_cropped.jpg){:height="150px"}
 <br><b>Priscilla RAJAKUMAR</b> | Postdoctoral Fellow<br>PhD | University College London <br>Masters | University of Malaya <br> Bachelor | Kolej Universiti Sains dan Teknologi Malaysia <br><a href="mailto:Priscilla_Dorothy_Rajakumar@gis.a-star.edu.sg">Email</a>
 
@@ -56,8 +53,17 @@ published: true
 ![MUHAMMAD Irfan Bin Hajis](https://chewlab.github.io/assets/images/Muhammad_Irfan_Bin_Hajis_cropped.jpg){:height="150px"}
 <br><b>MUHAMMAD Irfan Bin Hajis</b> | Attachement Student <br>B.Sc. | Nanyang Technological University <br>
 
+![Derek CHAN](https://chewlab.github.io/assets/images/Derek_Chan_cropped.jpg){:height="150px"}
+<br><b>Derek CHAN</b> | Research Officer <br>B.Sc. | University of Queensland <br><a href="mailto:derek_chan@gis.a-star.edu.sg">Email</a>
+
+![CHOI Yook Wah](https://chewlab.github.io/assets/images/Choi_Yook_Wah_cropped.jpg){:height="150px"}
+<br><b>CHOI Yook Wah</b> | Research Officer <br>B.Sc. | University of Nevada, Reno <br><a href="mailto:Choi_Yook_Wah@gis.a-star.edu.sg">Email</a>
+
 <br>
 <b>Alumni</b>
+
+![Hannah NICHOLAS](https://chewlab.github.io/assets/images/Hannah_Nicholas_cropped.jpg){:height="150px"}
+<br><b>Hannah NICHOLAS</b> | Programme Manager, Apr 2019 - Mar 2020<br>Senior Lecturer in Molecular Biology (Tenured research and teaching) | University of Sydney <br>DPhil | University of Oxford <br>BMedSci | University of Sydney
 
 ![Swathi Nachiar MANIVANNAN](https://chewlab.github.io/assets/images/Swathi_Nachiar_Manivannan_cropped.jpg){:height="150px"}
 <br><b>Swathi Nachiar MANIVANNAN</b> | Student Intern (NSS 8-week), Jul 2019 - Aug 2019 <br>B.A. | University of Cambridge
