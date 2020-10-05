@@ -66,7 +66,7 @@ published: true
 <br><b>Amanda LOH</b> | RAOS Awardee; Student <br>Current student at University College London <br>
 
 ![CHIA Bing Shao](https://chewlab.github.io/assets/images/Chia_Bing_Shao_cropped.jpg){:height="150px"}
-<br><b>CHIA Bing Shao</b> | Research Fellow<br>PhD | Harvard University <br>MS | Johns Hopkins University <br>BS | Johns Hopkins University <br><a href="mailto:chia_bing_shao@gis.a-star.edu.sg">Email</a>
+<br><b>CHIA Bing Shao</b> | Research Fellow (NSS BS-PhD)<br>PhD | Harvard University <br>MS | Johns Hopkins University <br>BS | Johns Hopkins University <br><a href="mailto:chia_bing_shao@gis.a-star.edu.sg">Email</a>
 
 <br>
 <b>Alumni</b>
