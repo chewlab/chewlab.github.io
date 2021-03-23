@@ -68,6 +68,15 @@ published: true
 ![CHIA Bing Shao](https://chewlab.github.io/assets/images/Chia_Bing_Shao_cropped.jpg){:height="150px"}
 <br><b>CHIA Bing Shao</b> | Research Fellow (NSS BS-PhD)<br>PhD | Harvard University <br>MS | Johns Hopkins University <br>BS | Johns Hopkins University <br><a href="mailto:chia_bing_shao@gis.a-star.edu.sg">Email</a>
 
+![Kimberle SHEN](https://chewlab.github.io/assets/images/Kimberle_Shen_cropped.jpg){:height="150px"}
+<br><b>Kimberle SHEN</b> | Research Fellow (NSS BS-PhD)<br>PhD | Stanford University <br>BA | University of Cambridge <br><a href="mailto:Kimberle_Shen@gis.a-star.edu.sg">Email</a>
+
+![Corina MOTOFEANU](https://chewlab.github.io/assets/images/Corina_Motofeanu_cropped.jpg){:height="150px"}
+<br><b>Corina MOTOFEANU</b> | Graduate Student (SINGA) <br>BSc | University of Manchester <br><a href="mailto:corina_motofeanu@gis.a-star.edu.sg">Email</a>
+
+![Samantha SEAH](https://chewlab.github.io/assets/images/Samantha_Seah_cropped.jpg){:height="150px"}
+<br><b>Samantha SEAH</b> | Research Fellow (NSS BS-PhD)<br>PhD | EMBL Heidelberg <br>BA | University of Cambridge <br><a href="mailto:Samantha_Seah@gis.a-star.edu.sg">Email</a>
+
 <br>
 <b>Alumni</b>
 
