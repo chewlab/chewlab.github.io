@@ -11,13 +11,13 @@ published: true
 <br><b>Wei Leong CHEW</b> | Principal Investigator<br>Ph.D. | Harvard University <br>B.S. | Duke University <br><a href="mailto:chewwl@gis.a-star.edu.sg">Email</a>
 
 ![GUO Ke](https://chewlab.github.io/assets/images/Guo-Ke-cropped.jpg){:height="150px"}
-<br><b>GUO Ke</b> | Senior Research Officer<br>Ph.D. | University of Berne  <br>B.S. | Henan Medical University <br><a href="mailto:guok@gis.a-star.edu.sg">Email</a>
+<br><b>GUO Ke</b> | Assistant Lab Manager<br>Ph.D. | University of Berne  <br>B.S. | Henan Medical University <br><a href="mailto:guok@gis.a-star.edu.sg">Email</a>
 
 ![Nicholas ONG](https://chewlab.github.io/assets/images/Nicholas_Ong_cropped.jpg){:height="150px"}
-<br><b>Nicholas ONG</b> | Research Fellow (NSS BS-PhD)<br>Ph.D. | Rice University <br>B.S. | Duke University <br><a href="mailto:nicholas_ong@gis.a-star.edu.sg">Email</a>
+<br><b>Nicholas ONG</b> | Senior Research Fellow (NSS BS-PhD)<br>Ph.D. | Rice University <br>B.S. | Duke University <br><a href="mailto:nicholas_ong@gis.a-star.edu.sg">Email</a>
 
 ![Eddie KENG Choong Tat](https://chewlab.github.io/assets/images/Eddie_Keng_Choong_Tat_cropped.jpg){:height="150px"}
-<br><b>Eddie KENG Choong Tat</b> | Postdoctoral Fellow<br>Ph.D. | National University of Singapore <br>M.Sc. | Nanyang Technological University, Singapore <br>B.S. | National University of Singapore <br><a href="mailto:Keng_Choong_Tat@gis.a-star.edu.sg">Email</a>
+<br><b>Eddie KENG Choong Tat</b> | Research Associate<br>Ph.D. | National University of Singapore <br>M.Sc. | Nanyang Technological University, Singapore <br>B.S. | National University of Singapore <br><a href="mailto:Keng_Choong_Tat@gis.a-star.edu.sg">Email</a>
     
 ![Hong-Ting PREKOP](https://chewlab.github.io/assets/images/Hong_Ting_Prekop_cropped.jpg){:height="150px"}
 <br><b>Hong-Ting PREKOP</b> | Postdoctoral Fellow<br>Ph.D. | King's College London <br>MRes | Imperial College London <br>B.A. | University of Cambridge <br><a href="mailto:HongTing_Prekop@gis.a-star.edu.sg">Email</a>
@@ -62,9 +62,6 @@ published: true
 ![GOH Chen Gang](https://chewlab.github.io/assets/images/Goh_Chen_Gang_cropped.jpg){:height="150px"}
 <br><b>GOH Chen Gang</b> | Research Officer (NSS) <br>B.Sc. | Imperial College London <br>
 
-![Amanda LOH](https://chewlab.github.io/assets/images/Amanda_Loh_cropped.jpg){:height="150px"}
-<br><b>Amanda LOH</b> | RAOS Awardee; Student <br>Current student at University College London <br>
-
 ![CHIA Bing Shao](https://chewlab.github.io/assets/images/Chia_Bing_Shao_cropped.jpg){:height="150px"}
 <br><b>CHIA Bing Shao</b> | Research Fellow (NSS BS-PhD)<br>PhD | Harvard University <br>MS | Johns Hopkins University <br>BS | Johns Hopkins University <br><a href="mailto:chia_bing_shao@gis.a-star.edu.sg">Email</a>
 
@@ -79,6 +76,9 @@ published: true
 
 <br>
 <b>Alumni</b>
+
+![Amanda LOH](https://chewlab.github.io/assets/images/Amanda_Loh_cropped.jpg){:height="150px"}
+<br><b>Amanda LOH</b> | RAOS Awardee; Student <br>Current student at University College London <br>
 
 ![Hannah NICHOLAS](https://chewlab.github.io/assets/images/Hannah_Nicholas_cropped.jpg){:height="150px"}
 <br><b>Hannah NICHOLAS</b> | Programme Manager, Apr 2019 - Mar 2020<br>Senior Lecturer in Molecular Biology (Tenured research and teaching) | University of Sydney <br>DPhil | University of Oxford <br>BMedSci | University of Sydney
