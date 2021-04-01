@@ -78,7 +78,7 @@ published: true
 <b>Alumni</b>
 
 ![Amanda LOH](https://chewlab.github.io/assets/images/Amanda_Loh_cropped.jpg){:height="150px"}
-<br><b>Amanda LOH</b> | RAOS Awardee; Student <br>Current student at University College London <br>
+<br><b>Amanda LOH</b> | RAOS Awardee; Student <br>Current student at University College London 
 
 ![Hannah NICHOLAS](https://chewlab.github.io/assets/images/Hannah_Nicholas_cropped.jpg){:height="150px"}
 <br><b>Hannah NICHOLAS</b> | Programme Manager, Apr 2019 - Mar 2020<br>Senior Lecturer in Molecular Biology (Tenured research and teaching) | University of Sydney <br>DPhil | University of Oxford <br>BMedSci | University of Sydney
