@@ -32,12 +32,6 @@ published: true
 ![CHEN Liwei](https://chewlab.github.io/assets/images/Chen_Liwei_cropped.jpg){:height="150px"}
 <br><b>CHEN Liwei</b> | Research Officer <br>M.Sc. | Harvard University <br>B.S. | University of Chicago <br><a href="mailto:chen_liwei@gis.a-star.edu.sg">Email</a>
 
-![Anna Traczyk](https://chewlab.github.io/assets/images/Anna_Traczyk_cropped.jpg){:height="150px"}
-<br><b>Anna TRACZYK</b> | Postdoctoral Fellow<br>Ph.D. | Nanyang Technological University <br>Master's | Warsaw University of Technology <br>B.S. | Warsaw University of Technology <br><a href="mailto:anna_traczyk@gis.a-star.edu.sg">Email</a>
-
-![Priscilla RAJAKUMAR](https://chewlab.github.io/assets/images/Priscilla_Rajakumar_cropped.jpg){:height="150px"}
-<br><b>Priscilla RAJAKUMAR</b> | Postdoctoral Fellow<br>PhD | University College London <br>Masters | University of Malaya <br> Bachelor | Kolej Universiti Sains dan Teknologi Malaysia <br><a href="mailto:Priscilla_Dorothy_Rajakumar@gis.a-star.edu.sg">Email</a>
-
 ![Amine MELIANI](https://chewlab.github.io/assets/images/Amine_Meliani_cropped.jpg){:height="150px"}
 <br><b>Amine MELIANI</b> | Postdoctoral Fellow<br>PhD | Sorbonne University; Genethon <br>Masters | Paris Descartes University; AgroParisTech <br> BSc | University of Algiers <br><a href="mailto:Mohamed_Amine@gis.a-star.edu.sg">Email</a>
 
@@ -74,8 +68,19 @@ published: true
 ![Samantha SEAH](https://chewlab.github.io/assets/images/Samantha_Seah_cropped.jpg){:height="150px"}
 <br><b>Samantha SEAH</b> | Research Fellow (NSS BS-PhD)<br>PhD | EMBL Heidelberg <br>BA | University of Cambridge <br><a href="mailto:Samantha_Seah@gis.a-star.edu.sg">Email</a>
 
+![Izavel LEE](https://chewlab.github.io/assets/images/Izavel_Lee_cropped.jpg){:height="150px"}
+<br><b>Izavel LEE</b> | Student Intern (NSS 8-week) <br>B.A. | University of Cambridge <br>
+
+
 <br>
 <b>Alumni</b>
+
+
+![Anna Traczyk](https://chewlab.github.io/assets/images/Anna_Traczyk_cropped.jpg){:height="150px"}
+<br><b>Anna TRACZYK</b> | Postdoctoral Fellow<br>Ph.D. | Nanyang Technological University <br>Master's | Warsaw University of Technology <br>B.S. | Warsaw University of Technology <br>
+
+![Priscilla RAJAKUMAR](https://chewlab.github.io/assets/images/Priscilla_Rajakumar_cropped.jpg){:height="150px"}
+<br><b>Priscilla RAJAKUMAR</b> | Postdoctoral Fellow<br>PhD | University College London <br>Masters | University of Malaya <br> Bachelor | Kolej Universiti Sains dan Teknologi Malaysia <br>
 
 ![Amanda LOH](https://chewlab.github.io/assets/images/Amanda_Loh_cropped.jpg){:height="150px"}
 <br><b>Amanda LOH</b> | RAOS Awardee; Student <br>Current student at University College London 
