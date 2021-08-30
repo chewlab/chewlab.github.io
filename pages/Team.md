@@ -53,9 +53,6 @@ published: true
 ![CHOI Yook Wah](https://chewlab.github.io/assets/images/Choi_Yook_Wah_cropped.jpg){:height="150px"}
 <br><b>CHOI Yook Wah</b> | Research Officer <br>B.Sc. | University of Nevada, Reno <br><a href="mailto:Choi_Yook_Wah@gis.a-star.edu.sg">Email</a>
 
-![GOH Chen Gang](https://chewlab.github.io/assets/images/Goh_Chen_Gang_cropped.jpg){:height="150px"}
-<br><b>GOH Chen Gang</b> | Research Officer (NSS) <br>B.Sc. | Imperial College London <br>
-
 ![CHIA Bing Shao](https://chewlab.github.io/assets/images/Chia_Bing_Shao_cropped.jpg){:height="150px"}
 <br><b>CHIA Bing Shao</b> | Research Fellow (NSS BS-PhD)<br>PhD | Harvard University <br>MS | Johns Hopkins University <br>BS | Johns Hopkins University <br><a href="mailto:chia_bing_shao@gis.a-star.edu.sg">Email</a>
 
@@ -81,6 +78,9 @@ published: true
 
 ![Priscilla RAJAKUMAR](https://chewlab.github.io/assets/images/Priscilla_Rajakumar_cropped.jpg){:height="150px"}
 <br><b>Priscilla RAJAKUMAR</b> | Postdoctoral Fellow<br>PhD | University College London <br>Masters | University of Malaya <br> Bachelor | Kolej Universiti Sains dan Teknologi Malaysia <br>
+
+![GOH Chen Gang](https://chewlab.github.io/assets/images/Goh_Chen_Gang_cropped.jpg){:height="150px"}
+<br><b>GOH Chen Gang</b> | Research Officer (NSS) <br>B.Sc. | Imperial College London <br>
 
 ![Amanda LOH](https://chewlab.github.io/assets/images/Amanda_Loh_cropped.jpg){:height="150px"}
 <br><b>Amanda LOH</b> | RAOS Awardee; Student <br>Current student at University College London 
