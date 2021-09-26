@@ -20,7 +20,7 @@ published: true
 <br><b>Eddie KENG Choong Tat</b> | Research Associate<br>Ph.D. | National University of Singapore <br>M.Sc. | Nanyang Technological University, Singapore <br>B.S. | National University of Singapore <br><a href="mailto:Keng_Choong_Tat@gis.a-star.edu.sg">Email</a>
     
 ![Hong-Ting PREKOP](https://chewlab.github.io/assets/images/Hong_Ting_Prekop_cropped.jpg){:height="150px"}
-<br><b>Hong-Ting PREKOP</b> | Postdoctoral Fellow<br>Ph.D. | King's College London <br>MRes | Imperial College London <br>B.A. | University of Cambridge <br><a href="mailto:HongTing_Prekop@gis.a-star.edu.sg">Email</a>
+<br><b>Hong-Ting PREKOP</b> | Programme Manager<br>Ph.D. | King's College London <br>MRes | Imperial College London <br>B.A. | University of Cambridge <br><a href="mailto:HongTing_Prekop@gis.a-star.edu.sg">Email</a>
 
 ![Daryl LIM](https://chewlab.github.io/assets/images/Daryl_Lim_cropped.jpg){:height="150px"}
 <br><b>Daryl LIM</b> | Research Officer <br>B.S. | National University of Singapore <br><a href="mailto:Daryl_Lim@gis.a-star.edu.sg">Email</a>
@@ -45,10 +45,7 @@ published: true
 <br><b>Lekha RAVICHANDRAPRABHU</b> | Research Officer <br>B.Eng. | Nanyang Technological University <br><a href="mailto:Lekha_Ravichandra_Prabhu@gis.a-star.edu.sg">Email</a>
 
 ![MUHAMMAD Irfan Bin Hajis](https://chewlab.github.io/assets/images/Muhammad_Irfan_Bin_Hajis_cropped.jpg){:height="150px"}
-<br><b>MUHAMMAD Irfan Bin Hajis</b> | Attachement Student <br>B.Sc. | Nanyang Technological University <br>
-
-![Derek CHAN](https://chewlab.github.io/assets/images/Derek_Chan_cropped.jpg){:height="150px"}
-<br><b>Derek CHAN</b> | Research Officer <br>B.Sc. | University of Queensland <br><a href="mailto:derek_chan@gis.a-star.edu.sg">Email</a>
+<br><b>MUHAMMAD Irfan Bin Hajis</b> | Research Officer <br>B.Sc. | Nanyang Technological University <br>
 
 ![CHOI Yook Wah](https://chewlab.github.io/assets/images/Choi_Yook_Wah_cropped.jpg){:height="150px"}
 <br><b>CHOI Yook Wah</b> | Research Officer <br>B.Sc. | University of Nevada, Reno <br><a href="mailto:Choi_Yook_Wah@gis.a-star.edu.sg">Email</a>
@@ -65,13 +62,15 @@ published: true
 ![Samantha SEAH](https://chewlab.github.io/assets/images/Samantha_Seah_cropped.jpg){:height="150px"}
 <br><b>Samantha SEAH</b> | Research Fellow (NSS BS-PhD)<br>PhD | EMBL Heidelberg <br>BA | University of Cambridge <br><a href="mailto:Samantha_Seah@gis.a-star.edu.sg">Email</a>
 
-![Izavel LEE](https://chewlab.github.io/assets/images/Izavel_Lee_cropped.jpg){:height="150px"}
-<br><b>Izavel LEE</b> | Student Intern (NSS 8-week) <br>B.A. | University of Cambridge <br>
-
 
 <br>
 <b>Alumni</b>
 
+![Derek CHAN](https://chewlab.github.io/assets/images/Derek_Chan_cropped.jpg){:height="150px"}
+<br><b>Derek CHAN</b> | Research Officer <br>B.Sc. | University of Queensland <br>
+
+![Izavel LEE](https://chewlab.github.io/assets/images/Izavel_Lee_cropped.jpg){:height="150px"}
+<br><b>Izavel LEE</b> | Student Intern (NSS 8-week) <br>B.A. | University of Cambridge <br>
 
 ![Anna Traczyk](https://chewlab.github.io/assets/images/Anna_Traczyk_cropped.jpg){:height="150px"}
 <br><b>Anna TRACZYK</b> | Postdoctoral Fellow<br>Ph.D. | Nanyang Technological University <br>Master's | Warsaw University of Technology <br>B.S. | Warsaw University of Technology <br>
