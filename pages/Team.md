@@ -52,8 +52,8 @@ published: true
 ![Benjamin WEBB](https://chewlab.github.io/assets/images/Benjamin_Webb_cropped.jpg){:height="150px"}
 <br><b>Benjamin WEBB</b> | Senior Research Fellow <br>PhD | Imperial College London <br><a href="mailto:benjamin_webb@gis.a-star.edu.sg">Email</a>
 
-![Joshua JAMES](https://chewlab.github.io/assets/images/Joshua_James_cropped.jpg){:height="150px"}
-<br><b>Joshua JAMES</b> | Graduate Student (ARAP - University of Manchester) <br>MSci | University of Bristol <br><a href="mailto:joshua_samuel_james@gis.a-star.edu.sg">Email</a>
+![Diya SRIVASTAVA](https://chewlab.github.io/assets/images/Diya_Srivastava_cropped.jpg){:height="150px"}
+<br><b>Diya SRIVASTAVA</b> | Research Officer <br>BSc | University of Sydney <br><a href="mailto:diya_srivastava@gis.a-star.edu.sg">Email</a>
 
 
 <br>
