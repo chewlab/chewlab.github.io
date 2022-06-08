@@ -46,7 +46,7 @@ published: true
 ![Samantha SEAH](https://chewlab.github.io/assets/images/Samantha_Seah_cropped.jpg){:height="150px"}
 <br><b>Samantha SEAH</b> | Research Fellow (NSS BS-PhD)<br>PhD | EMBL Heidelberg <br>BA | University of Cambridge <br><a href="mailto:Samantha_Seah@gis.a-star.edu.sg">Email</a>
 
-![Joshua JAMES](https://chewlab.github.io/assets/images/Joshua_James_cropped.jpg){:height="150px"}
+![Joshua JAMES](https://chewlab.github.io/assets/images/Joshua_James_Cropped.jpg){:height="150px"}
 <br><b>Joshua JAMES</b> | Graduate Student (ARAP - University of Manchester) <br>MSci | University of Bristol <br><a href="mailto:joshua_samuel_james@gis.a-star.edu.sg">Email</a>
 
 ![Benjamin WEBB](https://chewlab.github.io/assets/images/Benjamin_Webb_cropped.jpg){:height="150px"}
