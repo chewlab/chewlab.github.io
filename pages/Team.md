@@ -25,10 +25,6 @@ published: true
 ![Daryl LIM](https://chewlab.github.io/assets/images/Daryl_Lim_cropped.jpg){:height="150px"}
 <br><b>Daryl LIM</b> | Research Officer <br>B.S. | National University of Singapore <br><a href="mailto:Daryl_Lim@gis.a-star.edu.sg">Email</a>
 
-![Peter Jim PAA](https://chewlab.github.io/assets/images/Peter_Jim_Paa_cropped.jpg){:height="150px"}
-<br><b>Peter Jim PAA</b> | Graduate Student (SINGA) <br>B.S. (First Class) | University of Manitoba <br>B.S. | University of the Philippines 
-<br><a href="mailto:paa_peter_from.tp@gis.a-star.edu.sg">Email</a>
-
 ![CHEN Liwei](https://chewlab.github.io/assets/images/Chen_Liwei_cropped.jpg){:height="150px"}
 <br><b>CHEN Liwei</b> | Research Officer <br>M.Sc. | Harvard University <br>B.S. | University of Chicago <br><a href="mailto:chen_liwei@gis.a-star.edu.sg">Email</a>
 
@@ -37,18 +33,6 @@ published: true
 
 ![Lavina Sierra TAY](https://chewlab.github.io/assets/images/Lavina_Sierra_Tay_cropped.jpg){:height="150px"}
 <br><b>Lavina Sierra TAY</b> | Programme Manager<br>Assistant Head | National Research Foundation, Singapore <br>PhD | National University of Singapore <br>BSc | University of Western Australia <br><a href="mailto:Lavina_Tay@gis.a-star.edu.sg">Email</a>
-
-![June PARK Jung Eun](https://chewlab.github.io/assets/images/June_Park_Jung_Eun_cropped.jpg){:height="150px"}
-<br><b>June PARK Jung Eun</b> | Postdoctoral Fellow<br>PhD | Seoul National University <br>BSc | Seoul Women's University <br><a href="mailto:Park_Jung_Eun@gis.a-star.edu.sg">Email</a>
-
-![Lekha RAVICHANDRAPRABHU](https://chewlab.github.io/assets/images/Lekha_Ravichandraprabhu_cropped.jpg){:height="150px"}
-<br><b>Lekha RAVICHANDRAPRABHU</b> | Research Officer <br>B.Eng. | Nanyang Technological University <br><a href="mailto:Lekha_Ravichandra_Prabhu@gis.a-star.edu.sg">Email</a>
-
-![MUHAMMAD Irfan Bin Hajis](https://chewlab.github.io/assets/images/Muhammad_Irfan_Bin_Hajis_cropped.jpg){:height="150px"}
-<br><b>MUHAMMAD Irfan Bin Hajis</b> | Research Officer <br>B.Sc. | Nanyang Technological University <br>
-
-![CHOI Yook Wah](https://chewlab.github.io/assets/images/Choi_Yook_Wah_cropped.jpg){:height="150px"}
-<br><b>CHOI Yook Wah</b> | Research Officer <br>B.Sc. | University of Nevada, Reno <br><a href="mailto:Choi_Yook_Wah@gis.a-star.edu.sg">Email</a>
 
 ![CHIA Bing Shao](https://chewlab.github.io/assets/images/Chia_Bing_Shao_cropped.jpg){:height="150px"}
 <br><b>CHIA Bing Shao</b> | Research Fellow (NSS BS-PhD)<br>PhD | Harvard University <br>MS | Johns Hopkins University <br>BS | Johns Hopkins University <br><a href="mailto:chia_bing_shao@gis.a-star.edu.sg">Email</a>
@@ -62,9 +46,29 @@ published: true
 ![Samantha SEAH](https://chewlab.github.io/assets/images/Samantha_Seah_cropped.jpg){:height="150px"}
 <br><b>Samantha SEAH</b> | Research Fellow (NSS BS-PhD)<br>PhD | EMBL Heidelberg <br>BA | University of Cambridge <br><a href="mailto:Samantha_Seah@gis.a-star.edu.sg">Email</a>
 
+![Joshua JAMES](https://chewlab.github.io/assets/images/Joshua_James_cropped.jpg){:height="150px"}
+<br><b>Joshua JAMES</b> | Graduate Student (ARAP - University of Manchester) <br>MSci | University of Bristol <br><a href="mailto:joshua_samuel_james@gis.a-star.edu.sg">Email</a>
+
+![Benjamin WEBB](https://chewlab.github.io/assets/images/Benjamin_Webb_cropped.jpg){:height="150px"}
+<br><b>Benjamin WEBB</b> | Senior Research Fellow <br>PhD | Imperial College London <br><a href="mailto:benjamin_webb@gis.a-star.edu.sg">Email</a>
+
+![Joshua JAMES](https://chewlab.github.io/assets/images/Joshua_James_cropped.jpg){:height="150px"}
+<br><b>Joshua JAMES</b> | Graduate Student (ARAP - University of Manchester) <br>MSci | University of Bristol <br><a href="mailto:joshua_samuel_james@gis.a-star.edu.sg">Email</a>
+
 
 <br>
 <b>Alumni</b>
+![June PARK Jung Eun](https://chewlab.github.io/assets/images/June_Park_Jung_Eun_cropped.jpg){:height="150px"}
+<br><b>June PARK Jung Eun</b> | Postdoctoral Fellow<br>PhD | Seoul National University <br>BSc | Seoul Women's University <br>
+
+![Lekha RAVICHANDRAPRABHU](https://chewlab.github.io/assets/images/Lekha_Ravichandraprabhu_cropped.jpg){:height="150px"}
+<br><b>Lekha RAVICHANDRAPRABHU</b> | Research Officer <br>B.Eng. | Nanyang Technological University <br>
+
+![MUHAMMAD Irfan Bin Hajis](https://chewlab.github.io/assets/images/Muhammad_Irfan_Bin_Hajis_cropped.jpg){:height="150px"}
+<br><b>MUHAMMAD Irfan Bin Hajis</b> | Research Officer <br>B.Sc. | Nanyang Technological University <br>
+
+![CHOI Yook Wah](https://chewlab.github.io/assets/images/Choi_Yook_Wah_cropped.jpg){:height="150px"}
+<br><b>CHOI Yook Wah</b> | Research Officer <br>B.Sc. | University of Nevada, Reno <br>
 
 ![Derek CHAN](https://chewlab.github.io/assets/images/Derek_Chan_cropped.jpg){:height="150px"}
 <br><b>Derek CHAN</b> | Research Officer <br>B.Sc. | University of Queensland <br>
@@ -86,6 +90,9 @@ published: true
 
 ![Hannah NICHOLAS](https://chewlab.github.io/assets/images/Hannah_Nicholas_cropped.jpg){:height="150px"}
 <br><b>Hannah NICHOLAS</b> | Programme Manager, Apr 2019 - Mar 2020<br>Senior Lecturer in Molecular Biology (Tenured research and teaching) | University of Sydney <br>DPhil | University of Oxford <br>BMedSci | University of Sydney
+
+![Peter Jim PAA](https://chewlab.github.io/assets/images/Peter_Jim_Paa_cropped.jpg){:height="150px"}
+<br><b>Peter Jim PAA</b> | Graduate Student (SINGA) <br>B.S. (First Class) | University of Manitoba <br>B.S. | University of the Philippines 
 
 ![Swathi Nachiar MANIVANNAN](https://chewlab.github.io/assets/images/Swathi_Nachiar_Manivannan_cropped.jpg){:height="150px"}
 <br><b>Swathi Nachiar MANIVANNAN</b> | Student Intern (NSS 8-week), Jul 2019 - Aug 2019 <br>B.A. | University of Cambridge
