@@ -58,6 +58,7 @@ published: true
 
 <br>
 <b>Alumni</b>
+<br>
 ![June PARK Jung Eun](https://chewlab.github.io/assets/images/June_Park_Jung_Eun_cropped.jpg){:height="150px"}
 <br><b>June PARK Jung Eun</b> | Postdoctoral Fellow<br>PhD | Seoul National University <br>BSc | Seoul Women's University <br>
 
