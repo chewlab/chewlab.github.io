@@ -31,9 +31,6 @@ published: true
 ![Amine MELIANI](https://chewlab.github.io/assets/images/Amine_Meliani_cropped.jpg){:height="150px"}
 <br><b>Amine MELIANI</b> | Postdoctoral Fellow<br>PhD | Sorbonne University; Genethon <br>Masters | Paris Descartes University; AgroParisTech <br> BSc | University of Algiers <br><a href="mailto:Mohamed_Amine@gis.a-star.edu.sg">Email</a>
 
-![Lavina Sierra TAY](https://chewlab.github.io/assets/images/Lavina_Sierra_Tay_cropped.jpg){:height="150px"}
-<br><b>Lavina Sierra TAY</b> | Programme Manager<br>Assistant Head | National Research Foundation, Singapore <br>PhD | National University of Singapore <br>BSc | University of Western Australia <br><a href="mailto:Lavina_Tay@gis.a-star.edu.sg">Email</a>
-
 ![CHIA Bing Shao](https://chewlab.github.io/assets/images/Chia_Bing_Shao_cropped.jpg){:height="150px"}
 <br><b>CHIA Bing Shao</b> | Research Fellow (NSS BS-PhD)<br>PhD | Harvard University <br>MS | Johns Hopkins University <br>BS | Johns Hopkins University <br><a href="mailto:chia_bing_shao@gis.a-star.edu.sg">Email</a>
 
@@ -55,10 +52,29 @@ published: true
 ![Diya SRIVASTAVA](https://chewlab.github.io/assets/images/Diya_Srivastava_cropped.jpg){:height="150px"}
 <br><b>Diya SRIVASTAVA</b> | Research Officer <br>BSc | University of Sydney <br><a href="mailto:diya_srivastava@gis.a-star.edu.sg">Email</a>
 
+![KOH Zhi Kai](https://chewlab.github.io/assets/images/Koh Zhi Kai_cropped.jpeg){:height="150px"}
+<br><b>KOH Zhi Kai</b> | Attachment Student <br>BSc | Nanyang Technological University <br>
+
 
 <br>
 <b>Alumni</b>
 <br>
+
+![Charmaine TAN Zi Yun](https://chewlab.github.io/assets/images/Charmaine Tan Zi Yun_cropped.jpeg){:height="150px"}
+<br><b>Charmaine TAN Zi Yun</b> | Attachment Student <br>BSc | University of California Los Angeles <br>
+
+![Linette LUM Hui Min](https://chewlab.github.io/assets/images/Linette Lum Hui Min_cropped.jpeg){:height="150px"}
+<br><b>Linette LUM Hui Min</b> | Attachment Student <br>BSc | King's College London <br>
+
+![Mika THAM Ni Ya](https://chewlab.github.io/assets/images/Mika Tham Ni Ya_cropped.jpeg){:height="150px"}
+<br><b>Mika THAM Ni Ya</b> | Attachment Student <br>BSc | University College London <br>
+
+![YANG Qize](https://chewlab.github.io/assets/images/Yang Qize_cropped.jpeg){:height="150px"}
+<br><b>YANG Qize</b> | Attachment Student (NSS BS 8-week) <br>BSc | Cambridge University <br>
+
+![Lavina Sierra TAY](https://chewlab.github.io/assets/images/Lavina_Sierra_Tay_cropped.jpg){:height="150px"}
+<br><b>Lavina Sierra TAY</b> | Programme Manager<br>Assistant Head | National Research Foundation, Singapore <br>PhD | National University of Singapore <br>BSc | University of Western Australia <br>
+
 ![June PARK Jung Eun](https://chewlab.github.io/assets/images/June_Park_Jung_Eun_cropped.jpg){:height="150px"}
 <br><b>June PARK Jung Eun</b> | Postdoctoral Fellow<br>PhD | Seoul National University <br>BSc | Seoul Women's University <br>
 
