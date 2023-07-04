@@ -161,11 +161,6 @@ published: true
 <b>
 * We are recruiting talented postdocs and research officers.<br>We mentor students through <a href="https://www.a-star.edu.sg/Scholarships/Overview">A*STAR scholarships</a> and inter-institutional collaborations.<br>Email and come chat!<br />
 </b>
-<a href="https://www.a-star.edu.sg/gis/Connect/Careers/Careers-Details.aspx?id=282">Postdoc - Genome-editing technologies</a><br />
-<a href="https://www.a-star.edu.sg/gis/Connect/Careers/Careers-Details.aspx?id=284">Postdoc - Molecular engineering</a><br />
-<a href="https://www.a-star.edu.sg/gis/Connect/Careers/Careers-Details.aspx?id=283">Postdoc - Immunology</a><br />
-<a href="https://www.a-star.edu.sg/gis/Connect/Careers/Careers-Details.aspx?id=306">Postdoc - AAV</a><br />
-<a href="https://www.a-star.edu.sg/gis/Connect/Careers/Careers-Details.aspx?id=326">Postdoc - DNA/XNA engineering</a><br />
-<a href="https://www.a-star.edu.sg/gis/Connect/Careers/Careers-Details.aspx?id=281">Research Officer</a><br />
+
 
 </center>
