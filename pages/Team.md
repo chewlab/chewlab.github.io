@@ -13,9 +13,6 @@ published: true
 ![GUO Ke](https://chewlab.github.io/assets/images/Guo-Ke-cropped.jpg){:height="150px"}
 <br><b>GUO Ke</b> | Assistant Lab Manager<br>Ph.D. | University of Berne  <br>B.S. | Henan Medical University <br><a href="mailto:guok@gis.a-star.edu.sg">Email</a>
 
-![Nicholas ONG](https://chewlab.github.io/assets/images/Nicholas_Ong_cropped.jpg){:height="150px"}
-<br><b>Nicholas ONG</b> | Senior Research Fellow (NSS BS-PhD)<br>Ph.D. | Rice University <br>B.S. | Duke University <br><a href="mailto:nicholas_ong@gis.a-star.edu.sg">Email</a>
-
 ![Eddie KENG Choong Tat](https://chewlab.github.io/assets/images/Eddie_Keng_Choong_Tat_cropped.jpg){:height="150px"}
 <br><b>Eddie KENG Choong Tat</b> | Research Associate<br>Ph.D. | National University of Singapore <br>M.Sc. | Nanyang Technological University, Singapore <br>B.S. | National University of Singapore <br><a href="mailto:Keng_Choong_Tat@gis.a-star.edu.sg">Email</a>
     
@@ -46,19 +43,30 @@ published: true
 ![Joshua JAMES](https://chewlab.github.io/assets/images/Joshua_James_Cropped.jpg){:height="150px"}
 <br><b>Joshua JAMES</b> | Graduate Student (ARAP - University of Manchester) <br>MSci | University of Bristol <br><a href="mailto:joshua_samuel_james@gis.a-star.edu.sg">Email</a>
 
-![Benjamin WEBB](https://chewlab.github.io/assets/images/Benjamin_Webb_cropped.jpg){:height="150px"}
-<br><b>Benjamin WEBB</b> | Senior Research Fellow <br>PhD | Imperial College London <br><a href="mailto:benjamin_webb@gis.a-star.edu.sg">Email</a>
 
 ![Diya SRIVASTAVA](https://chewlab.github.io/assets/images/Diya_Srivastava_cropped.jpg){:height="150px"}
 <br><b>Diya SRIVASTAVA</b> | Research Officer <br>BSc | University of Sydney <br><a href="mailto:diya_srivastava@gis.a-star.edu.sg">Email</a>
 
-![KOH Zhi Kai](https://chewlab.github.io/assets/images/Koh Zhi Kai_cropped.jpeg){:height="150px"}
-<br><b>KOH Zhi Kai</b> | Attachment Student <br>BSc | Nanyang Technological University <br>
+![WANG Bolun](https://chewlab.github.io/assets/images/Wang_Bolun_cropped.jpeg){:height="150px"}
+<br><b>WANG Bolun</b> | Postdoctoral Fellow<br>PhD | Peking University <br> BEng | Xi’an Jiaotong University <br><a href="mailto:Wang_Bolun@gis.a-star.edu.sg">Email</a>
 
 
 <br>
 <b>Alumni</b>
 <br>
+
+
+![Nicholas ONG](https://chewlab.github.io/assets/images/Nicholas_Ong_cropped.jpg){:height="150px"}
+<br><b>Nicholas ONG</b> | Senior Research Fellow (NSS BS-PhD)<br>Ph.D. | Rice University <br>B.S. | Duke University <br>
+
+
+![Benjamin WEBB](https://chewlab.github.io/assets/images/Benjamin_Webb_cropped.jpg){:height="150px"}
+<br><b>Benjamin WEBB</b> | Senior Research Fellow <br>PhD | Imperial College London <br>
+
+
+![KOH Zhi Kai](https://chewlab.github.io/assets/images/Koh Zhi Kai_cropped.jpeg){:height="150px"}
+<br><b>KOH Zhi Kai</b> | Attachment Student <br>BSc | Nanyang Technological University <br>
+
 
 ![Charmaine TAN Zi Yun](https://chewlab.github.io/assets/images/Charmaine Tan Zi Yun_cropped.jpeg){:height="150px"}
 <br><b>Charmaine TAN Zi Yun</b> | Attachment Student <br>BSc | University of California Los Angeles <br>
