@@ -40,21 +40,23 @@ published: true
 ![Samantha SEAH](https://chewlab.github.io/assets/images/Samantha_Seah_cropped.jpg){:height="150px"}
 <br><b>Samantha SEAH</b> | Research Fellow (NSS BS-PhD)<br>PhD | EMBL Heidelberg <br>BA | University of Cambridge <br><a href="mailto:Samantha_Seah@gis.a-star.edu.sg">Email</a>
 
-![Joshua JAMES](https://chewlab.github.io/assets/images/Joshua_James_Cropped.jpg){:height="150px"}
-<br><b>Joshua JAMES</b> | Graduate Student (ARAP - University of Manchester) <br>MSci | University of Bristol <br><a href="mailto:joshua_samuel_james@gis.a-star.edu.sg">Email</a>
-
-
-![Diya SRIVASTAVA](https://chewlab.github.io/assets/images/Diya_Srivastava_cropped.jpg){:height="150px"}
-<br><b>Diya SRIVASTAVA</b> | Research Officer <br>BSc | University of Sydney <br><a href="mailto:diya_srivastava@gis.a-star.edu.sg">Email</a>
-
 ![WANG Bolun](https://chewlab.github.io/assets/images/Wang_Bolun_cropped.jpeg){:height="150px"}
 <br><b>WANG Bolun</b> | Postdoctoral Fellow<br>PhD | Peking University <br> BEng | Xi’an Jiaotong University <br><a href="mailto:Wang_Bolun@gis.a-star.edu.sg">Email</a>
+
+![Sharmada Totapally](https://chewlab.github.io/assets/images/Sharmada_Totapally_cropped.jpg){:height="150px"}
+<br><b>Sharmada Totapally</b> | Attachment Student <br>BEng | National University of Singapore <br>
+
 
 
 <br>
 <b>Alumni</b>
 <br>
 
+![Joshua JAMES](https://chewlab.github.io/assets/images/Joshua_James_Cropped.jpg){:height="150px"}
+<br><b>Joshua JAMES</b> | Graduate Student (ARAP - University of Manchester) <br>MSci | University of Bristol <br>
+
+![Diya SRIVASTAVA](https://chewlab.github.io/assets/images/Diya_Srivastava_cropped.jpg){:height="150px"}
+<br><b>Diya SRIVASTAVA</b> | Research Officer <br>BSc | University of Sydney <br>
 
 ![Nicholas ONG](https://chewlab.github.io/assets/images/Nicholas_Ong_cropped.jpg){:height="150px"}
 <br><b>Nicholas ONG</b> | Senior Research Fellow (NSS BS-PhD)<br>Ph.D. | Rice University <br>B.S. | Duke University <br>
