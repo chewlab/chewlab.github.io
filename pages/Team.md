@@ -44,7 +44,7 @@ published: true
 <br><b>WANG Bolun</b> | Postdoctoral Fellow<br>PhD | Peking University <br> BEng | Xi’an Jiaotong University <br><a href="mailto:Wang_Bolun@gis.a-star.edu.sg">Email</a>
 
 ![Sharmada TOTAPALLY](https://chewlab.github.io/assets/images/Sharmada_Totapally_cropped.jpg){:height="150px"}
-<br><b>Sharmada Totapally</b> | Attachment Student <br>BEng | National University of Singapore <br>
+<br><b>Sharmada TOTAPALLY</b> | Attachment Student <br>BEng | National University of Singapore <br>
 
 
 
