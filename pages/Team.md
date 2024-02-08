@@ -43,7 +43,7 @@ published: true
 ![WANG Bolun](https://chewlab.github.io/assets/images/Wang_Bolun_cropped.jpeg){:height="150px"}
 <br><b>WANG Bolun</b> | Postdoctoral Fellow<br>PhD | Peking University <br> BEng | Xi’an Jiaotong University <br><a href="mailto:Wang_Bolun@gis.a-star.edu.sg">Email</a>
 
-![Sharmada Totapally](https://chewlab.github.io/assets/images/Sharmada_Totapally_cropped.jpg){:height="150px"}
+![Sharmada TOTAPALLY](https://chewlab.github.io/assets/images/Sharmada_Totapally_cropped.jpg){:height="150px"}
 <br><b>Sharmada Totapally</b> | Attachment Student <br>BEng | National University of Singapore <br>
 
 
@@ -57,6 +57,15 @@ published: true
 
 ![Diya SRIVASTAVA](https://chewlab.github.io/assets/images/Diya_Srivastava_cropped.jpg){:height="150px"}
 <br><b>Diya SRIVASTAVA</b> | Research Officer <br>BSc | University of Sydney <br>
+
+
+![Reyner JUSUF](https://chewlab.github.io/assets/images/Reyner_Jusuf_cropped.jpg){:height="150px"}
+<br><b>Reyner JUSUF</b> | Attachment Student <br> BSc | University College London <br>
+
+
+![Drishtant CHAKRABORTY](https://chewlab.github.io/assets/images/Drishtant_Chakraborty_cropped.jpg){:height="150px"}
+<br><b>Drishtant CHAKRABORTY</b> | Attachment Student <br> BSc | University of Cambridge <br>
+
 
 ![Nicholas ONG](https://chewlab.github.io/assets/images/Nicholas_Ong_cropped.jpg){:height="150px"}
 <br><b>Nicholas ONG</b> | Senior Research Fellow (NSS BS-PhD)<br>Ph.D. | Rice University <br>B.S. | Duke University <br>
