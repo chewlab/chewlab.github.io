@@ -15,27 +15,15 @@ published: true
 
 ![Eddie KENG Choong Tat](https://chewlab.github.io/assets/images/Eddie_Keng_Choong_Tat_cropped.jpg){:height="150px"}
 <br><b>Eddie KENG Choong Tat</b> | Research Associate<br>Ph.D. | National University of Singapore <br>M.Sc. | Nanyang Technological University, Singapore <br>B.S. | National University of Singapore <br><a href="mailto:Keng_Choong_Tat@gis.a-star.edu.sg">Email</a>
-    
-![Hong-Ting PREKOP](https://chewlab.github.io/assets/images/Hong_Ting_Prekop_cropped.jpg){:height="150px"}
-<br><b>Hong-Ting PREKOP</b> | Programme Manager<br>Ph.D. | King's College London <br>MRes | Imperial College London <br>B.A. | University of Cambridge <br><a href="mailto:HongTing_Prekop@gis.a-star.edu.sg">Email</a>
 
 ![Daryl LIM](https://chewlab.github.io/assets/images/Daryl_Lim_cropped.jpg){:height="150px"}
 <br><b>Daryl LIM</b> | Research Officer <br>B.S. | National University of Singapore <br><a href="mailto:Daryl_Lim@gis.a-star.edu.sg">Email</a>
 
-![CHEN Liwei](https://chewlab.github.io/assets/images/Chen_Liwei_cropped.jpg){:height="150px"}
-<br><b>CHEN Liwei</b> | Research Officer <br>M.Sc. | Harvard University <br>B.S. | University of Chicago <br><a href="mailto:chen_liwei@gis.a-star.edu.sg">Email</a>
-
 ![Amine MELIANI](https://chewlab.github.io/assets/images/Amine_Meliani_cropped.jpg){:height="150px"}
 <br><b>Amine MELIANI</b> | Postdoctoral Fellow<br>PhD | Sorbonne University; Genethon <br>Masters | Paris Descartes University; AgroParisTech <br> BSc | University of Algiers <br><a href="mailto:Mohamed_Amine@gis.a-star.edu.sg">Email</a>
 
-![CHIA Bing Shao](https://chewlab.github.io/assets/images/Chia_Bing_Shao_cropped.jpg){:height="150px"}
-<br><b>CHIA Bing Shao</b> | Research Fellow (NSS BS-PhD)<br>PhD | Harvard University <br>MS | Johns Hopkins University <br>BS | Johns Hopkins University <br><a href="mailto:chia_bing_shao@gis.a-star.edu.sg">Email</a>
-
 ![Kimberle SHEN](https://chewlab.github.io/assets/images/Kimberle_Shen_cropped.jpg){:height="150px"}
 <br><b>Kimberle SHEN</b> | Research Fellow (NSS BS-PhD)<br>PhD | Stanford University <br>BA | University of Cambridge <br><a href="mailto:Kimberle_Shen@gis.a-star.edu.sg">Email</a>
-
-![Corina MOTOFEANU](https://chewlab.github.io/assets/images/Corina_Motofeanu_cropped.jpg){:height="150px"}
-<br><b>Corina MOTOFEANU</b> | Graduate Student (SINGA) <br>BSc | University of Manchester <br><a href="mailto:corina_motofeanu@gis.a-star.edu.sg">Email</a>
 
 ![Samantha SEAH](https://chewlab.github.io/assets/images/Samantha_Seah_cropped.jpg){:height="150px"}
 <br><b>Samantha SEAH</b> | Research Fellow (NSS BS-PhD)<br>PhD | EMBL Heidelberg <br>BA | University of Cambridge <br><a href="mailto:Samantha_Seah@gis.a-star.edu.sg">Email</a>
@@ -43,14 +31,26 @@ published: true
 ![WANG Bolun](https://chewlab.github.io/assets/images/Wang_Bolun_cropped.jpeg){:height="150px"}
 <br><b>WANG Bolun</b> | Postdoctoral Fellow<br>PhD | Peking University <br> BEng | Xi’an Jiaotong University <br><a href="mailto:Wang_Bolun@gis.a-star.edu.sg">Email</a>
 
-![Sharmada TOTAPALLY](https://chewlab.github.io/assets/images/Sharmada_Totapally_cropped.jpg){:height="150px"}
-<br><b>Sharmada TOTAPALLY</b> | Attachment Student <br>BEng | National University of Singapore <br>
-
 
 
 <br>
 <b>Alumni</b>
 <br>
+
+![Sharmada TOTAPALLY](https://chewlab.github.io/assets/images/Sharmada_Totapally_cropped.jpg){:height="150px"}
+<br><b>Sharmada TOTAPALLY</b> | Attachment Student <br>BEng | National University of Singapore <br>
+
+![Corina MOTOFEANU](https://chewlab.github.io/assets/images/Corina_Motofeanu_cropped.jpg){:height="150px"}
+<br><b>Corina MOTOFEANU</b> | Graduate Student (SINGA) <br>BSc | University of Manchester <br>
+
+![CHIA Bing Shao](https://chewlab.github.io/assets/images/Chia_Bing_Shao_cropped.jpg){:height="150px"}
+<br><b>CHIA Bing Shao</b> | Research Fellow (NSS BS-PhD)<br>PhD | Harvard University <br>MS | Johns Hopkins University <br>BS | Johns Hopkins University <br>
+
+![CHEN Liwei](https://chewlab.github.io/assets/images/Chen_Liwei_cropped.jpg){:height="150px"}
+<br><b>CHEN Liwei</b> | Research Officer <br>M.Sc. | Harvard University <br>B.S. | University of Chicago <br>
+
+![Hong-Ting PREKOP](https://chewlab.github.io/assets/images/Hong_Ting_Prekop_cropped.jpg){:height="150px"}
+<br><b>Hong-Ting PREKOP</b> | Programme Manager<br>Ph.D. | King's College London <br>MRes | Imperial College London <br>B.A. | University of Cambridge <br>
 
 ![Joshua JAMES](https://chewlab.github.io/assets/images/Joshua_James_Cropped.jpg){:height="150px"}
 <br><b>Joshua JAMES</b> | Graduate Student (ARAP - University of Manchester) <br>MSci | University of Bristol <br>
