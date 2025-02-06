@@ -37,7 +37,7 @@ published: true
 <b>Alumni</b>
 <br>
 
-![Jonell TAN](https://chewlab.github.io/assets/images/Jonell Tan_cropped.jpg){:height="150px"}
+![Jonell TAN](https://chewlab.github.io/assets/images/Jonell Tan_cropped.jpeg){:height="150px"}
 <br><b>Jonell TAN</b> | Attachment Student <br>BSc | Nanyang Technological University <br>
 
 ![YONG Fong Sin](https://chewlab.github.io/assets/images/Yong Fong Sin_cropped.jpg){:height="150px"}
