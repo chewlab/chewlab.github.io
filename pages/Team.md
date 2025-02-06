@@ -55,6 +55,9 @@ published: true
 ![Sharmada TOTAPALLY](https://chewlab.github.io/assets/images/Sharmada_Totapally_cropped.jpg){:height="150px"}
 <br><b>Sharmada TOTAPALLY</b> | Attachment Student <br>BEng | National University of Singapore <br>
 
+![Robin XIONG](https://chewlab.github.io/assets/images/Robin Xiong_cropped.jpg){:height="150px"}
+<br><b>Robin XIONG</b> | Attachment Student (SIPGA) <br>BS | Massachusetts Institute of Technology <br>
+
 ![Corina MOTOFEANU](https://chewlab.github.io/assets/images/Corina_Motofeanu_cropped.jpg){:height="150px"}
 <br><b>Corina MOTOFEANU</b> | Graduate Student (SINGA) <br>BSc | University of Manchester <br>
 
