@@ -37,6 +37,21 @@ published: true
 <b>Alumni</b>
 <br>
 
+![Jonell TAN](https://chewlab.github.io/assets/images/Jonell Tan_cropped.jpg){:height="150px"}
+<br><b>Jonell TAN</b> | Attachment Student <br>BSc | Nanyang Technological University <br>
+
+![YONG Fong Sin](https://chewlab.github.io/assets/images/Yong Fong Sin_cropped.jpg){:height="150px"}
+<br><b>YONG Fong Sin</b> | Attachment Student <br>BSc | National University of Singapore <br>
+
+![Eunice HO](https://chewlab.github.io/assets/images/Eunice Ho_cropped.jpg){:height="150px"}
+<br><b>Eunice HO</b> | Attachment Student (NSS) <br>BA/MBiol | University of Oxford <br>
+
+![HEW Yu Heng](https://chewlab.github.io/assets/images/Hew Yu Heng_cropped.jpg){:height="150px"}
+<br><b>HEW Yu Heng</b> | Attachment Student <br>BA | University of Cambridge <br>
+
+![Caleigh Mei TAN](https://chewlab.github.io/assets/images/Caleigh Mei Tan_cropped.jpg){:height="150px"}
+<br><b>Caleigh Mei TAN</b> | Attachment Student <br>B.S. | De La Salle University <br>
+
 ![Sharmada TOTAPALLY](https://chewlab.github.io/assets/images/Sharmada_Totapally_cropped.jpg){:height="150px"}
 <br><b>Sharmada TOTAPALLY</b> | Attachment Student <br>BEng | National University of Singapore <br>
 
