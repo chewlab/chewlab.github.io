@@ -31,6 +31,8 @@ published: true
 ![WANG Bolun](https://chewlab.github.io/assets/images/Wang_Bolun_cropped.jpeg){:height="150px"}
 <br><b>WANG Bolun</b> | Postdoctoral Fellow<br>PhD | Peking University <br> BEng | Xi’an Jiaotong University <br><a href="mailto:Wang_Bolun@gis.a-star.edu.sg">Email</a>
 
+![Larry LOO Sai Weng](https://chewlab.github.io/assets/images/Larry_Loo_Sai_Weng_cropped.jpg){:height="150px"}
+<br><b>Larry LOO Sai Weng</b> | Postdoctoral Fellow<br>PhD | Nanyang Technological University <br> BSc | University of Bradford <br><a href="mailto:Larry_Loo@gis.a-star.edu.sg">Email</a>
 
 
 <br>
