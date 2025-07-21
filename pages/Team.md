@@ -35,7 +35,7 @@ published: true
 <br><b>Larry LOO Sai Weng</b> | Postdoctoral Fellow<br>PhD | Nanyang Technological University <br> BSc | University of Bradford <br><a href="mailto:Larry_Loo@gis.a-star.edu.sg">Email</a>
 
 ![Natalie GOH](https://chewlab.github.io/assets/images/Natalie Goh_cropped.jpeg){:height="150px"}
-<br><b>Natalie GOH</b> | BSc | Imperial College London <br>
+<br><b>Natalie GOH</b> | Attachment Student<br>| BSc | Imperial College London <br>
 
 
 
