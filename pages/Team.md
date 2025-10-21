@@ -34,7 +34,7 @@ published: true
 ![Larry LOO Sai Weng](https://chewlab.github.io/assets/images/Larry_Loo_Sai_Weng_cropped.jpg){:height="150px"}
 <br><b>Larry LOO Sai Weng</b> | Postdoctoral Fellow<br>PhD | Nanyang Technological University <br> BSc | University of Bradford <br><a href="mailto:Larry_Loo@gis.a-star.edu.sg">Email</a>
 
-![WANG Zi](https://chewlab.github.io/assets/images/Wang_Zi_cropped.jpg){:height="150px"}
+![WANG Zi](https://chewlab.github.io/assets/images/Zi_Wang_cropped.jpg){:height="150px"}
 <br><b>WANG Zi</b> | PhD Graduate Student (ARAP - University of Manchester)<br>BSc | Chinese University of Hong Kong, Shenzhen <br>
 
 
