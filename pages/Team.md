@@ -34,14 +34,18 @@ published: true
 ![Larry LOO Sai Weng](https://chewlab.github.io/assets/images/Larry_Loo_Sai_Weng_cropped.jpg){:height="150px"}
 <br><b>Larry LOO Sai Weng</b> | Postdoctoral Fellow<br>PhD | Nanyang Technological University <br> BSc | University of Bradford <br><a href="mailto:Larry_Loo@gis.a-star.edu.sg">Email</a>
 
-![Natalie GOH](https://chewlab.github.io/assets/images/Natalie Goh_cropped.jpeg){:height="150px"}
-<br><b>Natalie GOH</b> | Attachment Student<br>BSc | Imperial College London <br>
+![WANG Zi](https://chewlab.github.io/assets/images/Wang_Zi_cropped.jpg){:height="150px"}
+<br><b>WANG Zi</b> | PhD Graduate Student (ARAP - University of Manchester)<br>BSc | Chinese University of Hong Kong, Shenzhen <br>
 
 
 
 <br>
 <b>Alumni</b>
 <br>
+
+
+![Natalie GOH](https://chewlab.github.io/assets/images/Natalie Goh_cropped.jpeg){:height="150px"}
+<br><b>Natalie GOH</b> | Attachment Student<br>BSc | Imperial College London <br>
 
 ![Jonell TAN](https://chewlab.github.io/assets/images/Jonell Tan_cropped.jpeg){:height="150px"}
 <br><b>Jonell TAN</b> | Attachment Student <br>BSc | Nanyang Technological University <br>
@@ -77,7 +81,7 @@ published: true
 <br><b>Hong-Ting PREKOP</b> | Programme Manager<br>Ph.D. | King's College London <br>MRes | Imperial College London <br>B.A. | University of Cambridge <br>
 
 ![Joshua JAMES](https://chewlab.github.io/assets/images/Joshua_James_Cropped.jpg){:height="150px"}
-<br><b>Joshua JAMES</b> | Graduate Student (ARAP - University of Manchester) <br>MSci | University of Bristol <br>
+<br><b>Joshua JAMES</b> | PhD Graduate Student (ARAP - University of Manchester) <br>MSci | University of Bristol <br>
 
 ![Diya SRIVASTAVA](https://chewlab.github.io/assets/images/Diya_Srivastava_cropped.jpg){:height="150px"}
 <br><b>Diya SRIVASTAVA</b> | Research Officer <br>BSc | University of Sydney <br>
