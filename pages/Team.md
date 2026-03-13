@@ -8,34 +8,34 @@ published: true
 
 
 ![Wei Leong CHEW](https://chewlab.github.io/assets/images/Chew-Wei-Leong-cropped.jpg){:height="150px"}
-<br><b>Wei Leong CHEW</b> | Principal Investigator<br>Ph.D. | Harvard University <br>B.S. | Duke University <br><a href="mailto:chewwl@gis.a-star.edu.sg">Email</a>
+<br><b>Wei Leong CHEW</b> | Principal Investigator<br>Ph.D. | Harvard University <br>B.S. | Duke University <br><a href="mailto:chewwl@a-star.edu.sg">Email</a>
 
 ![GUO Ke](https://chewlab.github.io/assets/images/Guo-Ke-cropped.jpg){:height="150px"}
-<br><b>GUO Ke</b> | Lab Manager<br>Ph.D. | University of Berne  <br>B.S. | Henan Medical University <br><a href="mailto:guok@gis.a-star.edu.sg">Email</a>
+<br><b>GUO Ke</b> | Lab Manager<br>Ph.D. | University of Berne  <br>B.S. | Henan Medical University <br><a href="mailto:guok@a-star.edu.sg">Email</a>
 
 ![Eddie KENG Choong Tat](https://chewlab.github.io/assets/images/Eddie_Keng_Choong_Tat_cropped.jpg){:height="150px"}
-<br><b>Eddie KENG Choong Tat</b> | Senior Scientist<br>Ph.D. | National University of Singapore <br>M.Sc. | Nanyang Technological University, Singapore <br>B.S. | National University of Singapore <br><a href="mailto:Keng_Choong_Tat@gis.a-star.edu.sg">Email</a>
+<br><b>Eddie KENG Choong Tat</b> | Senior Scientist<br>Ph.D. | National University of Singapore <br>M.Sc. | Nanyang Technological University, Singapore <br>B.S. | National University of Singapore <br><a href="mailto:Keng_Choong_Tat@a-star.edu.sg">Email</a>
 
 ![Daryl LIM](https://chewlab.github.io/assets/images/Daryl_Lim_cropped.jpg){:height="150px"}
-<br><b>Daryl LIM</b> | Senior Research Officer <br>B.S. | National University of Singapore <br><a href="mailto:Daryl_Lim@gis.a-star.edu.sg">Email</a>
+<br><b>Daryl LIM</b> | Senior Research Officer <br>B.S. | National University of Singapore <br><a href="mailto:Daryl_Lim@a-star.edu.sg">Email</a>
 
 ![Amine MELIANI](https://chewlab.github.io/assets/images/Amine_Meliani_cropped.jpg){:height="150px"}
-<br><b>Amine MELIANI</b> | Postdoctoral Fellow<br>PhD | Sorbonne University; Genethon <br>Masters | Paris Descartes University; AgroParisTech <br> BSc | University of Algiers <br><a href="mailto:Mohamed_Amine@gis.a-star.edu.sg">Email</a>
+<br><b>Amine MELIANI</b> | Postdoctoral Fellow<br>PhD | Sorbonne University; Genethon <br>Masters | Paris Descartes University; AgroParisTech <br> BSc | University of Algiers <br><a href="mailto:Mohamed_Amine@a-star.edu.sg">Email</a>
 
 ![Kimberle SHEN](https://chewlab.github.io/assets/images/Kimberle_Shen_cropped.jpg){:height="150px"}
-<br><b>Kimberle SHEN</b> | Senior Scientist (NSS BS-PhD)<br>PhD | Stanford University <br>BA | University of Cambridge <br><a href="mailto:Kimberle_Shen@gis.a-star.edu.sg">Email</a>
+<br><b>Kimberle SHEN</b> | Senior Scientist (NSS BS-PhD)<br>PhD | Stanford University <br>BA | University of Cambridge <br><a href="mailto:Kimberle_Shen@a-star.edu.sg">Email</a>
 
 ![Samantha SEAH](https://chewlab.github.io/assets/images/Samantha_Seah_cropped.jpg){:height="150px"}
-<br><b>Samantha SEAH</b> | Research Fellow (NSS BS-PhD)<br>PhD | EMBL Heidelberg <br>BA | University of Cambridge <br><a href="mailto:Samantha_Seah@gis.a-star.edu.sg">Email</a>
+<br><b>Samantha SEAH</b> | Research Fellow (NSS BS-PhD)<br>PhD | EMBL Heidelberg <br>BA | University of Cambridge <br><a href="mailto:Samantha_Seah@a-star.edu.sg">Email</a>
 
 ![WANG Bolun](https://chewlab.github.io/assets/images/Wang_Bolun_cropped.jpeg){:height="150px"}
-<br><b>WANG Bolun</b> | Postdoctoral Fellow<br>PhD | Peking University <br> BEng | Xi’an Jiaotong University <br><a href="mailto:Wang_Bolun@gis.a-star.edu.sg">Email</a>
+<br><b>WANG Bolun</b> | Postdoctoral Fellow<br>PhD | Peking University <br> BEng | Xi’an Jiaotong University <br><a href="mailto:Wang_Bolun@a-star.edu.sg">Email</a>
 
 ![Larry LOO Sai Weng](https://chewlab.github.io/assets/images/Larry_Loo_Sai_Weng_cropped.jpg){:height="150px"}
-<br><b>Larry LOO Sai Weng</b> | Postdoctoral Fellow<br>PhD | Nanyang Technological University <br> BSc | University of Bradford <br><a href="mailto:Larry_Loo@gis.a-star.edu.sg">Email</a>
+<br><b>Larry LOO Sai Weng</b> | Postdoctoral Fellow<br>PhD | Nanyang Technological University <br> BSc | University of Bradford <br><a href="mailto:Larry_Loo@a-star.edu.sg">Email</a>
 
 ![WANG Zi](https://chewlab.github.io/assets/images/Zi_Wang_cropped.jpg){:height="150px"}
-<br><b>WANG Zi</b> | PhD Graduate Student (ARAP - University of Manchester)<br>BSc | Chinese University of Hong Kong, Shenzhen <br>
+<br><b>WANG Zi</b> | PhD Graduate Student (ARAP - University of Manchester)<br>BSc | Chinese University of Hong Kong, Shenzhen <br><a href="mailto:wang_zi_from.tp@a-star.edu.sg">Email</a>
 
 ![Colin SOH](https://chewlab.github.io/assets/images/Colin_Soh_cropped.jpg){:height="150px"}
 <br><b>Colin SOH</b> | Research Officer <br>. <br><a href="mailto:Colin_Soh@a-star.edu.sg">Email</a>
