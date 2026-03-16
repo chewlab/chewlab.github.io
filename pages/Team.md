@@ -38,7 +38,7 @@ published: true
 <br><b>WANG Zi</b> | PhD Graduate Student (ARAP - University of Manchester)<br>BSc | Chinese University of Hong Kong, Shenzhen <br><a href="mailto:wang_zi_from.tp@a-star.edu.sg">Email</a>
 
 ![Colin SOH](https://chewlab.github.io/assets/images/Colin_Soh_cropped.jpg){:height="150px"}
-<br><b>Colin SOH</b> | Research Officer <br>. <br><a href="mailto:Colin_Soh@a-star.edu.sg">Email</a>
+<br><b>Colin SOH</b> | Research Officer <br>BS | Nanyang Technological University <br><a href="mailto:Colin_Soh@a-star.edu.sg">Email</a>
 
 ![Audrey LEE](https://chewlab.github.io/assets/images/Audrey_Lee_Lin_cropped.jpg){:height="150px"}
 <br><b>Audrey LEE</b> | Research Officer <br>BS | Nanyang Technological University <br><a href="mailto:Lee_Lin_Audrey@a-star.edu.sg">Email</a>
