@@ -43,6 +43,9 @@ published: true
 ![Audrey LEE](https://chewlab.github.io/assets/images/Audrey_Lee_Lin_cropped.jpg){:height="150px"}
 <br><b>Audrey LEE</b> | Research Officer <br>BS | Nanyang Technological University <br><a href="mailto:Lee_Lin_Audrey@a-star.edu.sg">Email</a>
 
+![Diego Perez Hidalgo](https://chewlab.github.io/assets/images/Diego_Perez_cropped.jpg){:height="150px"}
+<br><b>Diego Perez Hidalgo</b> | Research Assistant / Attachment Student (UBC Science Co-op) <br>BS | The University of British Columbia <br><a href="mailto:dperezhi@student.ubc.ca">Email</a>
+
 <br>
 <b>Alumni</b>
 <br>
